@@ -1,0 +1,1679 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rai 1">
+    <display-name lang="it">Rai 1</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="Rai 2">
+    <display-name lang="it">Rai 2</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="Rai 3">
+    <display-name lang="it">Rai 3</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="Rai 4">
+    <display-name lang="it">Rai 4</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="Rai 5">
+    <display-name lang="it">Rai 5</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RAI Movie(Itália)">
+    <display-name lang="it">RAI Movie (Itália)</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="Rai Movie">
+    <display-name lang="it">Rai Movie</display-name>
+    <icon src="https://guidatv.sky.it/logo/9018raimovie_Light_Fit.png?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it.E</url>
+  </channel>
+  <channel id="RAI Movie">
+    <display-name lang="it">RAI Movie</display-name>
+    <icon src="https://guidatv.sky.it/logo/9018raimovie_Light_Fit.png?tr=n-logo_80" />
+    <url>http://www.guidatv.sky.it.E</url>
+  </channel>
+  <channel id="RaiPremium">
+    <display-name lang="it">RaiPremium</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RaiGulp">
+    <display-name lang="it">RaiGulp</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RaiYoyo">
+    <display-name lang="it">RaiYoyo</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RaiStoria">
+    <display-name lang="it">RaiStoria</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RaiScuola">
+    <display-name lang="it">RaiScuola</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RaiNews24">
+    <display-name lang="it">RaiNews24</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RaiSportpiuHD">
+    <display-name lang="it">RaiSportpiuHD</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="RaiSport">
+    <display-name lang="it">RaiSport</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <programme start="20200523054000 +0000" stop="20200523072000 +0000" channel="Rai Movie">
+    <title lang="it">La risaia</title>
+    <desc lang="it">Regia di R. Matarazzo, con E.Martinelli, F.Lulli; ITA 1956. Il padrone di una risaia riconosce in una sua mondina la figlia illegittima e la protegge senza svelarle la verita'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523072000 +0000" stop="20200523075000 +0000" channel="Rai Movie">
+    <title lang="it">Movie Mag</title>
+    <desc lang="it">Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita' e tematiche classiche.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523075000 +0000" stop="20200523094000 +0000" channel="Rai Movie">
+    <title lang="it">Nel sole</title>
+    <desc lang="it">Regia di A. Grimaldi, con R.Power, A.Carrisi; ITA 1967. Carlo Carrera, studente e cameriere, s'innamora della ricca Lorena. Fara' di tutto per fingersi miliardario.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523094000 +0000" stop="20200523115500 +0000" channel="Rai Movie">
+    <title lang="it">Vento di passioni</title>
+    <desc lang="it">Regia di E. Zwick, con B.Pitt, A.Hopkins; USA 1994. Nell'America della Grande Guerra, la storia dei fratelli Ludlow e del loro conflittuale rapporto a causa di una bella ragazza.(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Brad Pitt</actor>
+      <actor>David Kaye</actor>
+      <actor>Robert Wisden</actor>
+      <actor>John Novak</actor>
+      <actor>Gordon Tootoosis</actor>
+      <actor>Karina Lombard</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/3a6704fd-581e-49a6-95e3-f7b2f8f9e240/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200523115500 +0000" stop="20200523120000 +0000" channel="Rai Movie">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosita' dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523120000 +0000" stop="20200523133500 +0000" channel="Rai Movie">
+    <title lang="it">Franny</title>
+    <desc lang="it">Regia di A. Renzi, con R.Gere, D.Fanning; USA 2015. Un cinico milionario e' costretto a mettere a nudo le debolezze per aiutare la figlia di una coppia di amici scomparsi.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523133500 +0000" stop="20200523154000 +0000" channel="Rai Movie">
+    <title lang="it">90 minuti in Paradiso</title>
+    <desc lang="it">Regia di M. Polish, con H.Christensen, K.Bosworth; USA 2015. Tornato miracolosamente alla vita dopo un terribile incidente, Don Piper sostiene di aver visto il Paradiso.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523154000 +0000" stop="20200523173500 +0000" channel="Rai Movie">
+    <title lang="it">Ricomincio da noi</title>
+    <desc lang="it">Regia di R. Loncraine, con I.Staunton, T.Spall; GBR 2017. Il racconto di una donna che, dopo aver scoperto di essere tradita dal marito, reinventa la sua vita e mette su una compagnia di ballo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523173500 +0000" stop="20200523191000 +0000" channel="Rai Movie">
+    <title lang="it">Dick &amp; Jane - Operazione furto</title>
+    <desc lang="it">Regia di D. Parisot, con J.Carrey, T.Leoni; USA 2005. Dopo il fallimento dell'azienda, un uomo abituato a uno stile di vita benestante decide di darsi al crimine insieme alla moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523191000 +0000" stop="20200523221500 +0000" channel="Rai Movie">
+    <title lang="it">Braveheart - Cuore impavido</title>
+    <desc lang="it">Regia di M. Gibson, con M.Gibson, S.Marceau; USA 1995. Nella Scozia del XIII secolo, William Wallace si mette a capo dei ribelli indipendentisti per vendicare la morte della sua amata.(n)</desc>
+    <credits>
+      <director>Mel Gibson</director>
+      <actor>Mel Gibson</actor>
+      <actor>Gerda Stevenson</actor>
+      <actor>James Robinson</actor>
+      <actor>Angus Macfadyen</actor>
+      <actor>Sean McGinley</actor>
+      <actor>James Cosmo</actor>
+      <producer>Stephen McEveety</producer>
+    </credits>
+    <date>1995</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/e696fb1d-4f3f-4e07-8240-77dcf51accd8/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200523221500 +0000" stop="20200524000000 +0000" channel="Rai Movie">
+    <title lang="it">Alex Cross - La memoria del killer</title>
+    <desc lang="it">Regia di R. Cohen, con T.Perry, M.Fox; USA 2012. Un detective guida le indagini su un presunto assassino, ma la caccia all'uomo si rivela piu' complessa del previsto.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524000000 +0000" stop="20200524013000 +0000" channel="Rai Movie">
+    <title lang="it">Number 23</title>
+    <desc lang="it">Regia di J. Schumacher, con J.Carrey, V.Madsen; USA 2006. Jim Carrey trascina un thriller innescato dalle sue paranoie. Ossessionato da un romanzo intitolato 'Il numero 23'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524013000 +0000" stop="20200524030000 +0000" channel="Rai Movie">
+    <title lang="it">The Giver - Il mondo di Jonas</title>
+    <desc lang="it">Regia di P. Noyce, con B.Thwaites, J.Bridges; USA 2014. In una societa' del futuro dove non esistono dolore e differenze, un ragazzo deve custodire le memorie dell'umanita'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524030000 +0000" stop="20200524043000 +0000" channel="Rai Movie">
+    <title lang="it">La dominatrice</title>
+    <desc lang="it">Regia di G. Stevens, con B.Stanwyck, M.Douglas; USA 1935. Un uomo e una donna, abili tiratori, vengono ingaggiati da un circo. L'iniziale competizione si trasformera' in amore...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524043000 +0000" stop="20200524062500 +0000" channel="Rai Movie">
+    <title lang="it">Foglie d'autunno</title>
+    <desc lang="it">Regia di R. Aldrich, con C.Robertson, J.Crawford; USA 1956. Dopo il matrimonio, la dattilografa Milly scopre che suo marito soffre di preoccupanti disturbi dovuti a traumi del passato.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524062500 +0000" stop="20200524083000 +0000" channel="Rai Movie">
+    <title lang="it">Se non avessi piu' te</title>
+    <desc lang="it">Regia di E. Fizzarotti, con G.Morandi, A.Polani; ITA 1964. Gianni Morandi e' un giovane cantautore. Intenzionato a sposare la fidanzata, dovra' farlo di nascosto dalla casa discografica.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524083000 +0000" stop="20200524102000 +0000" channel="Rai Movie">
+    <title lang="it">Toto', Vittorio e la dottoressa</title>
+    <desc lang="it">Regia di C. Mastrocinque, con Toto', V.De Sica; FRA/ITA 1957. Due millantatori sono assunti da due zie premurose che vogliono far pedinare la ragazza di cui si e' infatuato il nipote.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524102000 +0000" stop="20200524115000 +0000" channel="Rai Movie">
+    <title lang="it">Dick &amp; Jane - Operazione furto</title>
+    <desc lang="it">Regia di D. Parisot, con J.Carrey, T.Leoni; USA 2005. Dopo il fallimento dell'azienda, un uomo abituato a uno stile di vita benestante decide di darsi al crimine insieme alla moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524115000 +0000" stop="20200524133000 +0000" channel="Rai Movie">
+    <title lang="it">Qualunquemente</title>
+    <desc lang="it">Regia di G. Manfredonia, con A.Albanese, S.Rubini; ITA 2011. Dopo un periodo di latitanza, Cetto La Qualunque torna in Italia e si candida a sindaco per difendere la sua citta' dalla... legalita'.(n)</desc>
+    <credits>
+      <director>Giulio Manfredonia</director>
+      <actor>Antonio Albanese</actor>
+      <actor>Mario Cordova</actor>
+      <actor>Massimo De Lorenzo</actor>
+      <actor>Alfonso Postiglione</actor>
+      <actor>Veronica Da Silva</actor>
+      <actor>Antonio Gherardi</actor>
+      <producer>Domenico Procacci</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/5ee40f78-4792-4003-a2b3-2cc0603ba34b/cover" />
+    <country lang="it">ITA</country>
+  </programme>
+  <programme start="20200524133000 +0000" stop="20200524152000 +0000" channel="Rai Movie">
+    <title lang="it">I Tre Moschettieri</title>
+    <desc lang="it">Regia di P.W.S. Anderson, con L.Lerman, O.Bloom; GBR/DEU 2011. Il caparbio D'Artagnan si unisce a tre leggendari moschettieri per smascherare gli intrighi orditi dal cardinale Richelieu.(n)</desc>
+    <credits>
+      <director>Paul W.S. Anderson</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Gabriella Wilde</actor>
+      <actor>Freddie Fox</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Luke Evans</actor>
+      <producer>Martin Moszkowicz</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/f934edb1-3f2c-4c91-b057-e92bda12d872/cover" />
+    <country lang="it">GBR</country>
+  </programme>
+  <programme start="20200524152000 +0000" stop="20200524173000 +0000" channel="Rai Movie">
+    <title lang="it">La verita' e' che non gli piaci...</title>
+    <desc lang="it">...abbastanza - Regia di K. Kwapis, con B.Affleck, J.Aniston; DEU/USA 2009. A Baltimora si intrecciano le vicende di un gruppo di giovani donne: una tradita, una innamorata e un'altra volubile.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524173000 +0000" stop="20200524191000 +0000" channel="Rai Movie">
+    <title lang="it">Un turco napoletano</title>
+    <desc lang="it">Regia di M. Mattoli, con Toto', A.Giuffre'; ITA 1953. In fuga dalla polizia, Toto' arriva a casa di un uomo ossessionato dalla gelosia per la moglie. Si fara' passare per un eunuco.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524191000 +0000" stop="20200524204500 +0000" channel="Rai Movie">
+    <title lang="it">Belle &amp; Sebastien - Amici per sempre</title>
+    <desc lang="it">Regia di C. Cornillac, con F.Bossuet, T.Karyo; FRA 2017. Un uomo afferma di essere il padrone di Belle, ma Sebastien fara' di tutto per impedire che porti via la sua amica e i cuccioli.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524204500 +0000" stop="20200524224500 +0000" channel="Rai Movie">
+    <title lang="it">Chasing Mavericks - Sulla cresta...</title>
+    <desc lang="it">...dell'onda - Regia di C. Hanson, con G.Butler, J.Weston; USA 2012. Deciso a sfidare una delle piu' grandi onde sulla Terra, un giovane surfista chiede aiuto a una leggenda del surf per imparare a domarla.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524224500 +0000" stop="20200525002000 +0000" channel="Rai Movie">
+    <title lang="it">Shade - Carta vincente</title>
+    <desc lang="it">Regia di D. Nieman, con S.Stallone, M.Griffith; USA 2003. Tre truffatori riescono a togliere ad un malfamato gangster un'ingente somma e ora si preparano a sedersi al tavolo contro 'il Decano', re del poker.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525002000 +0000" stop="20200525014500 +0000" channel="Rai Movie">
+    <title lang="it">W la foca</title>
+    <desc lang="it">Regia di N. Cicero, con L.Del Santo, M.Miti; ITA 1982. Un'infermiera trova lavoro come domestica presso una famiglia di Roma e tenta il successo in tv. Cult della commedia sexy.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525014500 +0000" stop="20200525030000 +0000" channel="Rai Movie">
+    <title lang="it">Pistolero senza onore</title>
+    <desc lang="it">Regia di S. Franklin, con C.Hittleman, S.Hayden; USA 1957. Dopo una rapina a una diligenza, un pistolero sfugge a un attentato tesogli dal proprio complice. Arrivato a un villaggio, diventa sceriffo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525030000 +0000" stop="20200525043500 +0000" channel="Rai Movie">
+    <title lang="it">Maciste alla corte del Gran Khan</title>
+    <desc lang="it">Regia di R. Freda, con G.Scott, Y.Tani; FRA/ITA 1962. Il Gran Khan dei Mongoli ha soppresso l'imperatore della Cina e ha preso il suo posto sul trono. Il gigante Maciste lo combatte...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525043500 +0000" stop="20200525060000 +0000" channel="Rai Movie">
+    <title lang="it">La strada per Forte Alamo</title>
+    <desc lang="it">Regia di M. Bava, con K.Clark, J.Clair; FRA/ITA 1964. La storia di due fuorilegge reduci da un colpo dove hanno indossato, a bella posta, divise da ufficiali nordisti.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525060000 +0000" stop="20200525074500 +0000" channel="Rai Movie">
+    <title lang="it">Il pranzo della domenica</title>
+    <desc lang="it">Regia di C. Vanzina, con G.Ralli, M.Ghini; ITA 2003. Le attenzioni di una signora borghese, rimasta vedova, si riversano sulle tre figlie. Ma i loro rapporti si complicano.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525074500 +0000" stop="20200525100000 +0000" channel="Rai Movie">
+    <title lang="it">Vento di passioni</title>
+    <desc lang="it">Regia di E. Zwick, con B.Pitt, A.Hopkins; USA 1994. Nell'America della Grande Guerra, la storia dei fratelli Ludlow e del loro conflittuale rapporto a causa di una bella ragazza.(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Brad Pitt</actor>
+      <actor>David Kaye</actor>
+      <actor>Robert Wisden</actor>
+      <actor>John Novak</actor>
+      <actor>Gordon Tootoosis</actor>
+      <actor>Karina Lombard</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/3a6704fd-581e-49a6-95e3-f7b2f8f9e240/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200525100000 +0000" stop="20200525120500 +0000" channel="Rai Movie">
+    <title lang="it">The Homesman</title>
+    <desc lang="it">Regia di T. Lee Jones, con T.Lee Jones, H.Swank; USA/FRA 2014. Una donna risoluta si assume l'incarico di scortare tre signore nel selvaggio West. La aiutera' un misterioso vagabondo.(n)</desc>
+    <credits>
+      <director>Tommy Lee Jones</director>
+      <actor>Hilary Swank</actor>
+      <actor>John Lithgow</actor>
+      <actor>David Dencik</actor>
+      <actor>Sonja Richter</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Tim Blake Nelson</actor>
+      <producer>Tommy Lee Jones</producer>
+      <producer>Michael Fitzgerald</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/96a52803-f7d0-4521-9242-3d32a7097397/cover" />
+    <country lang="it">FRA</country>
+  </programme>
+  <programme start="20200525120500 +0000" stop="20200525142500 +0000" channel="Rai Movie">
+    <title lang="it">Master &amp; Commander - Sfida ai confini...</title>
+    <desc lang="it">...del mare - Regia di P. Weir, con R.Crowe, P.Bettany; USA 2003. 1805. Un vascello britannico e uno francese si inseguono e si affrontano in mare aperto scambiandosi il ruolo di preda e predatore.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525142500 +0000" stop="20200525172500 +0000" channel="Rai Movie">
+    <title lang="it">Le miniere di Re Salomone</title>
+    <desc lang="it">Regia di S. Boyum, con P.Swayze, A.Doody; USA 2004. Un ex avventuriero accetta una missione impossibile: trovare il padre di una donna scomparso anni prima mentre cercava le Miniere di Re Salomone.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525172500 +0000" stop="20200525191000 +0000" channel="Rai Movie">
+    <title lang="it">Toto', lascia o raddoppia?</title>
+    <desc lang="it">Regia di C. Mastrocinque, con Toto', M.Bongiorno; ITA 1958. Uno scommettitore sfortunato cerca di mettere a frutto le sue competenze sui cavalli iscrivendosi al quiz di Mike Bongiorno.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525191000 +0000" stop="20200525211500 +0000" channel="Rai Movie">
+    <title lang="it">I professionisti</title>
+    <desc lang="it">Regia di R. Brooks, con B.Lancaster, L.Marvin; USA 1966. Un ricco industriale sembra disperato per il rapimento della moglie. Quattro uomini partono per liberarla, ma scoprono che l'uomo gli ha mentito.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525211500 +0000" stop="20200525230000 +0000" channel="Rai Movie">
+    <title lang="it">I pistoleri maledetti</title>
+    <desc lang="it">Regia di W. Witney, con A.Murphy, M.Dante; USA 1965. Il capitano Andrews, per acciuffare il resto di una banda, si serve di due suoi membri imprigionati. Tradimenti e tante sparatorie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525230000 +0000" stop="20200526005000 +0000" channel="Rai Movie">
+    <title lang="it">Bleed - Piu' forte del destino</title>
+    <desc lang="it">Regia di B. Younger, con M.Teller, A.Eckhart; USA 2016. Reduce da un terribile incidente stradale, il pugile Vinnie Pazienza torna sul ring per combattere un leggendario match.(n)</desc>
+    <credits>
+      <director>Ben Younger</director>
+      <actor>Miles Teller</actor>
+      <actor>Tina Casciani</actor>
+      <actor>Daniel Sauli</actor>
+      <actor>Amanda Clayton</actor>
+      <actor>Christine Evangelista</actor>
+      <actor>Ted Levine</actor>
+      <producer>Myles Nestel</producer>
+      <producer>Martin Scorsese</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/bdea0415-8079-42a4-bcf4-3c74474d0b28/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200526005000 +0000" stop="20200526030000 +0000" channel="Rai Movie">
+    <title lang="it">Vertical Limit</title>
+    <desc lang="it">Regia di M. Campbell, con C.O'Donnell, S.Glenn; DEU/USA 2000. Peter, scampato anni prima a un incidente in montagna, dovra' tornare a scalare per salvare degli alpinisti sul K2.(n)</desc>
+    <credits>
+      <director>Martin Campbell</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Steve Le Marquand</actor>
+      <actor>Augie Davis</actor>
+      <actor>Stuart Wilson</actor>
+      <actor>Alexander Siddig</actor>
+      <producer>Robert King</producer>
+      <producer>Martin Campbell</producer>
+    </credits>
+    <date>2000</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/cb583969-a46b-4752-98f1-1752ae07dac7/cover" />
+    <country lang="it">GER</country>
+  </programme>
+  <programme start="20200526030000 +0000" stop="20200526050500 +0000" channel="Rai Movie">
+    <title lang="it">Master &amp; Commander - Sfida ai confini...</title>
+    <desc lang="it">...del mare - Regia di P. Weir, con R.Crowe, P.Bettany; USA 2003. 1805. Un vascello britannico e uno francese si inseguono e si affrontano in mare aperto scambiandosi il ruolo di preda e predatore.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526050500 +0000" stop="20200526065000 +0000" channel="Rai Movie">
+    <title lang="it">Sua Eccellenza si fermo' a mangiare</title>
+    <desc lang="it">Regia di M. Mattoli, con Toto', U.Tognazzi; ITA 1961. Italia del Fascismo. Un ladro, deciso a svaligiare una ricca casa, partecipa ad una festa facendosi passare per un medico.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526065000 +0000" stop="20200526083500 +0000" channel="Rai Movie">
+    <title lang="it">I motorizzati</title>
+    <desc lang="it">Regia di C. Mastrocinque, con U.Tognazzi, N.Manfredi; ITA 1962. Tre episodi in cui si raccontano la smania motoristica degli anni '60 e le truffe legate al mondo delle assicurazioni.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526083500 +0000" stop="20200526101000 +0000" channel="Rai Movie">
+    <title lang="it">Jerryssimo!</title>
+    <desc lang="it">Regia di G. Marshall, con J.Lewis, A.Francis; USA 1969. Peter viene informato dal suo medico che ha pochi mesi di vita e, mentre lui accumula debiti in vacanza, l'altro cerca di soffiargli la moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526101000 +0000" stop="20200526120500 +0000" channel="Rai Movie">
+    <title lang="it">Il mercenario</title>
+    <desc lang="it">Regia di S. Corbucci, con F.Nero, T.Musante; ITA 1968. Le avventure del ribelle Paco e del suo socio Serghiei alla vigilia di una rivoluzione sudamericana. Con Franco Nero.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526120500 +0000" stop="20200526135000 +0000" channel="Rai Movie">
+    <title lang="it">Ballata per un pistolero</title>
+    <desc lang="it">Regia di A. Caltabiano, con D.Bojanovic, A.Infanti; ITA 1966. Spaghetti western che ha per protagonisti due cacciatori di taglie. La resa dei conti sara' con una banda sanguinaria all'interno di una miniera.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526135000 +0000" stop="20200526154500 +0000" channel="Rai Movie">
+    <title lang="it">E' tornato Sabata... hai chiuso...</title>
+    <desc lang="it">...un'altra volta! - Regia di F. Kramer, con L.Van Cleef, G.Albertini; FRA/ITA 1971. Sabata insieme ad un suo ex commilitone, un imbonitore e due ex ladruncoli riuscira' a spillare un milione di dollari ad un imbroglione irlandese.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526154500 +0000" stop="20200526171500 +0000" channel="Rai Movie">
+    <title lang="it">Una pistola per cento bare</title>
+    <desc lang="it">Regia di U. Lenzi, con P.Lawrence, J.Ireland; ITA 1968. Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e' stata sterminata.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526171500 +0000" stop="20200526191000 +0000" channel="Rai Movie">
+    <title lang="it">La stanza del vescovo</title>
+    <desc lang="it">Regia di D. Risi, con U.Tognazzi, O.Muti; ITA 1977. La provincia, luogo di segreti e vita a volte grezza. Da un romanzo di Piero Chiara, la storia di un professionista enigmatico.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526191000 +0000" stop="20200526211500 +0000" channel="Rai Movie">
+    <title lang="it">The Post</title>
+    <desc lang="it">Regia di S. Spielberg, con M.Streep, T.Hanks; USA 2017. Anni '70. Il governo USA nascose ai cittadini importanti informazioni sulla guerra in Vietnam, ma il 'Washington Post' scopri' la verita'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526211500 +0000" stop="20200526225500 +0000" channel="Rai Movie">
+    <title lang="it">Aspettando il re</title>
+    <desc lang="it">Regia di T. Tykwer, con T.Hanks, S.Choudhury; GBR/DEU 2016. Un rappresentante americano in crisi prova a risollevare i suoi affari tentando di vendere un importante prodotto al Re dell'Arabia Saudita.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526225500 +0000" stop="20200527005000 +0000" channel="Rai Movie">
+    <title lang="it">Fiore</title>
+    <desc lang="it">Regia di C. Giovannesi, con D.Scoccia, V.Mastandrea; ITA 2016. Una squadra di agenti speciali, incaricati di proteggere un narcotrafficante, si ritrova assediata all'interno di un hotel.(n)</desc>
+    <credits>
+      <director>Claudio Giovannesi</director>
+      <actor>Daphne Scoccia</actor>
+      <actor>Francesca Riso</actor>
+      <actor>Klea Marku</actor>
+      <actor>Gessica Giulianeeli</actor>
+      <actor>Aniello Arena</actor>
+      <actor>Antonella Lattanzi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/09da18ec-f4cf-4a5c-bfd8-eb5a08a94934/cover" />
+    <country lang="it">ITA</country>
+  </programme>
+  <programme start="20200527005000 +0000" stop="20200527030000 +0000" channel="Rai Movie">
+    <title lang="it">Windstruck - Ti presento la mia ragazza</title>
+    <desc lang="it">Regia di J. Kwak, con H.Jang, S.Kim; KOR 2004. Myung-woo, insegnante di fisica, viene scambiato per uno scippatore e arrestato dalla poliziotta Kyung-jin che pero' si innamora dell'uomo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527030000 +0000" stop="20200527042500 +0000" channel="Rai Movie">
+    <title lang="it">Jerryssimo!</title>
+    <desc lang="it">Regia di G. Marshall, con J.Lewis, A.Francis; USA 1969. Peter viene informato dal suo medico che ha pochi mesi di vita e, mentre lui accumula debiti in vacanza, l'altro cerca di soffiargli la moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527042500 +0000" stop="20200527054500 +0000" channel="Rai Movie">
+    <title lang="it">La Venere dei pirati</title>
+    <desc lang="it">Regia di M. Costa, con G.M.Canale, M.Serato; ITA 1960. Nel Seicento una ragazza diventa regina dei pirati. Conosciuta con nome di Venere dei pirati, diventera' famosa per le sue gesta.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527054500 +0000" stop="20200527071500 +0000" channel="Rai Movie">
+    <title lang="it">L'imperatore di Capri</title>
+    <desc lang="it">Regia di L. Comencini, con Toto', Y.Sanson; ITA 1949. Una grande somiglianza con un principe arabo rende popolarissimo il cameriere Toto'. Quando sta per essere incoronato imperatore, sopraggiunge quello vero.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527071500 +0000" stop="20200527085500 +0000" channel="Rai Movie">
+    <title lang="it">W le donne</title>
+    <desc lang="it">Regia di A. Grimaldi, con F.Franchi, C.Ingrassia; ITA 1970. Franchi e Ingrassia nella vicenda di un cantante chiamato alle armi. Si innamorera' della figlia del terribile maresciallo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527085500 +0000" stop="20200527102500 +0000" channel="Rai Movie">
+    <title lang="it">La settimana bianca</title>
+    <desc lang="it">Regia di M. Laurenti, con E.Cannavale, A.Rizzoli; ITA 1981. Un gruppo di impiegati in vacanza sulla neve si impegna non tanto nello sci quanto nella conquista della collega piu' carina.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527102500 +0000" stop="20200527115500 +0000" channel="Rai Movie">
+    <title lang="it">I tre implacabili</title>
+    <desc lang="it">Regia di J. Romero Marchent, con J.Horne, C.Undari; ITA 1963. Un gruppo di banditi uccide la giovane moglie del proprietario di un ranch. Questi partira' alla ricerca dei sette assassini...(n)</desc>
+    <category lang="it">Altro</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527115500 +0000" stop="20200527134000 +0000" channel="Rai Movie">
+    <title lang="it">I pistoleri maledetti</title>
+    <desc lang="it">Regia di W. Witney, con A.Murphy, M.Dante; USA 1965. Il capitano Andrews, per acciuffare il resto di una banda, si serve di due suoi membri imprigionati. Tradimenti e tante sparatorie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527134000 +0000" stop="20200527152000 +0000" channel="Rai Movie">
+    <title lang="it">Faccia a faccia</title>
+    <desc lang="it">Regia di S. Sollima, con G.M.Volonte', W.Berger; ITA 1967. Un professore malandato viene rapito da una banda del West: finira' per subire il fascino dell'avventurosa vita criminale.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527152000 +0000" stop="20200527173000 +0000" channel="Rai Movie">
+    <title lang="it">I lunghi giorni della vendetta</title>
+    <desc lang="it">Regia di F. Vancini, con G.Gemma, F.Rabal; FRA/ITA 1967. Ted evade di prigione per vendicare la morte del padre. Ci riuscira' grazie all'aiuto di una donna e di un onesto giudice.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527173000 +0000" stop="20200527191000 +0000" channel="Rai Movie">
+    <title lang="it">Delitto a Porta Romana</title>
+    <desc lang="it">Regia di B. Corbucci, con T.Milian, Bombolo; ITA 1980. Il ladro 'Venticello' si introduce in un appartamento dove viene assassinata una donna. E lui, testimone, ne fara' le spese.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527191000 +0000" stop="20200527214000 +0000" channel="Rai Movie">
+    <title lang="it">Otto e mezzo</title>
+    <desc lang="it">Regia di F. Fellini, con M.Mastroianni, S.Milo; ITA 1963. Capolavoro di Fellini. Un maturo regista sul set del suo prossimo film si trova a fare il bilancio della sua vita, tra sogni, ricordi e immaginazione.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527214000 +0000" stop="20200527220500 +0000" channel="Rai Movie">
+    <title lang="it">Movie Mag</title>
+    <desc lang="it">Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita' e tematiche classiche.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527220500 +0000" stop="20200528005000 +0000" channel="Rai Movie">
+    <title lang="it">Il profeta</title>
+    <desc lang="it">Regia di J. Audiard, con T.Rahim, N.Arestrup; FRA 2009. Un diciottenne condannato a sei anni di prigione finisce sotto il giogo degli altri detenuti, ma finira' per farsi rispettare.(n)</desc>
+    <credits>
+      <director>Jacques Audiard</director>
+      <actor>Tahar Rahim</actor>
+      <actor>Foued Nassah</actor>
+      <actor>Pierre Leccia</actor>
+      <actor>Antoine Basler</actor>
+      <actor>Gilles Cohen</actor>
+      <actor>Jean-Philippe Ricci</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/1d9cd124-08c9-4003-b7cb-737f8168f8dd/cover" />
+    <country lang="it">ITA</country>
+  </programme>
+  <programme start="20200528005000 +0000" stop="20200528030000 +0000" channel="Rai Movie">
+    <title lang="it">Song to Song</title>
+    <desc lang="it">Regia di T. Malick, con R.Gosling, R.Mara; USA 2017. Ad Austin, citta' di artisti e produttori, un musicista in cerca di successo si innamora di una ragazza tra lussuria e tradimenti.(n)</desc>
+    <credits>
+      <director>Terrence Malick</director>
+      <actor>Michael Fassbender</actor>
+      <actor>Heather Kafka</actor>
+      <actor>Bérénice Marlohe</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Holly Hunter</actor>
+      <actor>Cate Blanchett</actor>
+      <producer>Glen Basner</producer>
+      <producer>Christos V. Konstantakopoulos</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/1abb1f50-7ef3-4d5b-aa95-b34c6b608cfa/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200528030000 +0000" stop="20200528044000 +0000" channel="Rai Movie">
+    <title lang="it">Operazione 'Z'</title>
+    <desc lang="it">Regia di T. Garnett, con R.Mitchum, A.Blyth; USA 1952. Lo sbarco in Corea e' imminente, ma l'ufficiale incaricato di organizzare il rimpatrio degli americani viene ferito.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528044000 +0000" stop="20200528062000 +0000" channel="Rai Movie">
+    <title lang="it">I quattro monaci</title>
+    <desc lang="it">Regia di C.L. Bragaglia, con P.De Filippo, A.Fabrizi; ITA 1962. Quattro lestofanti travestiti da frati si rifugiano in un convento. Presa confidenza con la vita monastica, iniziano a taglieggiare i negozianti.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528062000 +0000" stop="20200528080000 +0000" channel="Rai Movie">
+    <title lang="it">Eccezzziunale... veramente</title>
+    <desc lang="it">Regia di C. Vanzina, con D.Abatantuono, M.Boldi; ITA 1982. Tre episodi che hanno per protagonisti un tifoso milanista, un interista e uno juventino; tutti e tre con il volto di Diego Abatantuono.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528080000 +0000" stop="20200528100000 +0000" channel="Rai Movie">
+    <title lang="it">Joy</title>
+    <desc lang="it">Regia di D.O. Russell, con J.Lawrence, R.De Niro; USA 2015. Scontenta della propria vita ma con un'idea geniale in testa, Joy brevetta un mocio che la condurra' verso un non facile successo.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Jimmy Jean-Louis</actor>
+      <actor>Diane Ladd</actor>
+      <actor>Isabella Rossellini</actor>
+      <actor>Virginia Madsen</actor>
+      <actor>Elisabeth Röhm</actor>
+      <producer>Mary McLaglen</producer>
+      <producer>Joy Mangano</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/c68e47fd-5d04-4ef1-9e7f-f325b95ca36a/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200528100000 +0000" stop="20200528115000 +0000" channel="Rai Movie">
+    <title lang="it">I sette del Texas</title>
+    <desc lang="it">Regia di J. Romero Marchent, con R.Undari, F.Sancho; ITA 1964. Texas. Un ricco proprietario terriero deve attraversare il deserto per portare all'ospedale la moglie ammalata. Un viaggio che sara' pieno d'insidie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528115000 +0000" stop="20200528141000 +0000" channel="Rai Movie">
+    <title lang="it">...E poi lo chiamarono il Magnifico</title>
+    <desc lang="it">Regia di E. Barboni, con T.Hill, G.Walcott; FRA/ITA 1972. In fuga dalla natia Inghilterra per via di uno scandalo, un giovane nobile approda in America, dove diventera' un pistolero.(n)</desc>
+    <credits>
+      <director>Enzo Barboni</director>
+      <actor>Terence Hill</actor>
+      <actor>Alessandro Sperli</actor>
+      <actor>Jean Louis</actor>
+      <actor>Riccardo Pizzuti</actor>
+      <actor>Danika La Loggia</actor>
+      <actor>Enzo Fiermonte</actor>
+    </credits>
+    <date>1972</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/608f4c7f-0497-452d-a5b7-396edfa06ad0/cover" />
+    <country lang="it">JUG</country>
+  </programme>
+  <programme start="20200528141000 +0000" stop="20200528154500 +0000" channel="Rai Movie">
+    <title lang="it">Il figlio di Django</title>
+    <desc lang="it">Regia di O. Civirani, con G.Madison, G.Tinti; ITA 1967. Unitosi ad una banda di pistoleri per vendicare la morte del padre, Tracy finisce invece per convertirsi al cristianesimo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528154500 +0000" stop="20200528171500 +0000" channel="Rai Movie">
+    <title lang="it">Una pistola per cento bare</title>
+    <desc lang="it">Regia di U. Lenzi, con P.Lawrence, J.Ireland; ITA 1968. Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e' stata sterminata.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528171500 +0000" stop="20200528191000 +0000" channel="Rai Movie">
+    <title lang="it">Piedone d'Egitto</title>
+    <desc lang="it">Regia di Steno, con B.Spencer, E.Cannavale; ITA 1979. Piedone e il fedele Caputo partono per Il Cairo alla ricerca di un professore, notorio esperto di giacimenti petroliferi.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528191000 +0000" stop="20200528211000 +0000" channel="Rai Movie">
+    <title lang="it">Veloce come il vento</title>
+    <desc lang="it">Regia di M. Rovere, con S.Accorsi, M.De Angelis; ITA 2016. Il difficile rapporto tra la talentuosa pilota Giulia e suo fratello Loris, una leggenda dell'automobilismo diventato tossicodipendente.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528211000 +0000" stop="20200528225500 +0000" channel="Rai Movie">
+    <title lang="it">Alex Cross - La memoria del killer</title>
+    <desc lang="it">Regia di R. Cohen, con T.Perry, M.Fox; USA 2012. Un detective guida le indagini su un presunto assassino, ma la caccia all'uomo si rivela piu' complessa del previsto.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528225500 +0000" stop="20200529005000 +0000" channel="Rai Movie">
+    <title lang="it">L'avventura del Poseidon</title>
+    <desc lang="it">Regia di R. Neame, con G.Hackman, E.Borgnine; USA 1972. Un transatlantico di lusso alla sua ultima crociera viene travolto da un'enorme ondata. Per i dieci sopravvissuto sulla nave inizia una lunga odissea...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529005000 +0000" stop="20200529005500 +0000" channel="Rai Movie">
+    <title lang="it">Anica Appuntamento al cinema</title>
+    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529005500 +0000" stop="20200529023000 +0000" channel="Rai Movie">
+    <title lang="it">Vicolo cieco</title>
+    <desc lang="it">Regia di A. Goddard, con P.Wilson, J.Biel; USA 2016. New York, anni '60. Walter e' sposato con Sara, ma si innamora di Ellie, mentre entra in scena un misterioso assassino.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529023000 +0000" stop="20200529030000 +0000" channel="Rai Movie">
+    <title lang="it">Lasciali ridendo</title>
+    <desc lang="it">con C.Bruckman; USA 1928. Stanlio e' preoccupato per la seduta dal dentista, ma a sostenerlo c'e' Ollio. Peccato che entrambi inalino gas esilarante e...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529030000 +0000" stop="20200529045500 +0000" channel="Rai Movie">
+    <title lang="it">Ballata per un pistolero</title>
+    <desc lang="it">Regia di A. Caltabiano, con D.Bojanovic, A.Infanti; ITA 1966. Spaghetti western che ha per protagonisti due cacciatori di taglie. La resa dei conti sara' con una banda sanguinaria all'interno di una miniera.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529045500 +0000" stop="20200529070500 +0000" channel="Rai Movie">
+    <title lang="it">I lunghi giorni della vendetta</title>
+    <desc lang="it">Regia di F. Vancini, con G.Gemma, F.Rabal; FRA/ITA 1967. Ted evade di prigione per vendicare la morte del padre. Ci riuscira' grazie all'aiuto di una donna e di un onesto giudice.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529070500 +0000" stop="20200529085500 +0000" channel="Rai Movie">
+    <title lang="it">Operazione San Gennaro</title>
+    <desc lang="it">Regia di D. Risi, con N.Manfredi, S.Berger; FRA/ITA 1966. Tre ladri americani vogliono rubare il tesoro di San Gennaro e si affidano all'abilita' del napoletano Dudu'. Qualcuno fa il doppiogioco.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529085500 +0000" stop="20200529103000 +0000" channel="Rai Movie">
+    <title lang="it">Fotoromanzo</title>
+    <desc lang="it">Regia di M. Laurenti, con N.D'Angelo, B.Feirri; ITA 1986. Nino, figlio di una portinaia che sogna di sfondare scrivendo canzoni, si trasferisce a Milano per seguire la fidanzata.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529103000 +0000" stop="20200529120000 +0000" channel="Rai Movie">
+    <title lang="it">I tre del Colorado</title>
+    <desc lang="it">Regia di A. de Ossorio, con G.Martin, L.Marin; ITA 1966. I meticci dell'Hudson si ribellano ai soprusi dei coloni inglesi. Nel corso della guerriglia rapiscono la figlia di un industriale.(n)</desc>
+    <category lang="it">Altro</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529120000 +0000" stop="20200529135500 +0000" channel="Rai Movie">
+    <title lang="it">Snitch - l'infiltrato</title>
+    <desc lang="it">Regia di R.R. Waugh, con D.Johnson, B.Pepper; SAU 2013. Il manager John Matthews deve infiltrarsi in un giro di spacciatori per far scagionare il figlio, ingiustamente accusato.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529135500 +0000" stop="20200529140000 +0000" channel="Rai Movie">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosita' dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529140000 +0000" stop="20200529154000 +0000" channel="Rai Movie">
+    <title lang="it">Sette donne per i McGregor</title>
+    <desc lang="it">Regia di F. Giraldi, con D.Bailey, A.Flori; ITA 1967. Durante le nozze di MacGregor, l'oro di famiglia viene trafugato da un bandito. Tutto il clan si mette sulle sue tracce...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529154000 +0000" stop="20200529172000 +0000" channel="Rai Movie">
+    <title lang="it">Il sentiero della violenza</title>
+    <desc lang="it">Regia di P. Karlson, con V.Heflin, T.Hunter; USA 1958. Un rude allevatore di bestiame, fiero di suo figlio perche', come lui, di modi spicci, e' costretto ad affrontarlo quando il ragazzo comincia a uccidere.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529172000 +0000" stop="20200529191000 +0000" channel="Rai Movie">
+    <title lang="it">Toto', Vittorio e la dottoressa</title>
+    <desc lang="it">Regia di C. Mastrocinque, con Toto', V.De Sica; FRA/ITA 1957. Due millantatori sono assunti da due zie premurose che vogliono far pedinare la ragazza di cui si e' infatuato il nipote.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529191000 +0000" stop="20200529210500 +0000" channel="Rai Movie">
+    <title lang="it">La verita' negata</title>
+    <desc lang="it">Regia di M. Jackson, con R.Weisz, T.Spall; USA/GBR 2016. La battaglia legale intentata da David Irving verso la storica Deborah Lipstadt e la casa editrice Penguin Books.(n)</desc>
+    <credits>
+      <director>Mick Jackson</director>
+      <actor>John Sessions</actor>
+      <actor>Alex Jennings</actor>
+      <actor>Harriet Walter</actor>
+      <actor>Mark Gatiss</actor>
+      <actor>Andrew Scott</actor>
+      <actor>Tom Wilkinson</actor>
+      <producer>Guy Heeley</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/6f5e1302-aa57-4421-9e0c-2a21031d69ed/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200529210500 +0000" stop="20200529230500 +0000" channel="Rai Movie">
+    <title lang="it">Captain Fantastic</title>
+    <desc lang="it">Regia di M. Ross, con V.Mortensen, G.MacKay; USA 2016. Deciso a crescere i suoi sei figli nella foresta, lontano dalla societa' industriale, un uomo dovra' rivedere le sue controverse scelte.(n)</desc>
+    <credits>
+      <director>Matt Ross</director>
+      <actor>Viggo Mortensen</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Trin Miller</actor>
+      <actor>Charlie Shotwell</actor>
+      <actor>Frank Langella</actor>
+      <actor>Shree Crooks</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/072ca8a1-82e1-4f69-8e6d-0682d371b577/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200529230500 +0000" stop="20200530012000 +0000" channel="Rai Movie">
+    <title lang="it">Vento di passioni</title>
+    <desc lang="it">Regia di E. Zwick, con B.Pitt, A.Hopkins; USA 1994. Nell'America della Grande Guerra, la storia dei fratelli Ludlow e del loro conflittuale rapporto a causa di una bella ragazza.(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Brad Pitt</actor>
+      <actor>David Kaye</actor>
+      <actor>Robert Wisden</actor>
+      <actor>John Novak</actor>
+      <actor>Gordon Tootoosis</actor>
+      <actor>Karina Lombard</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/3a6704fd-581e-49a6-95e3-f7b2f8f9e240/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200530012000 +0000" stop="20200530030000 +0000" channel="Rai Movie">
+    <title lang="it">Empire State</title>
+    <desc lang="it">Regia di D. Montiel, con L.Hemsworth, M.Angarano; USA 2013. Due amici d'infanzia organizzano la rapina ad un furgone blindato. Il poliziotto che segue il caso dovra' scovare i criminali.(n)</desc>
+    <credits>
+      <director>Dito Montiel</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>James Ransone</actor>
+      <actor>Jerry Ferrara</actor>
+      <actor>Shenae Grimes</actor>
+      <actor>Lydia Hull</actor>
+      <actor>Nikki Reed</actor>
+      <producer>Barry Brooker</producer>
+      <producer>Michael Blencowe</producer>
+      <producer>Sandy Kyrkostas</producer>
+      <producer>Brett Granstaff</producer>
+      <producer>George Furla</producer>
+      <producer>Ted Fox</producer>
+      <producer>Randall Emmett</producer>
+      <producer>Remington Chase</producer>
+      <producer>Jason Gandhi</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/045c248a-b70e-426b-8db3-693ddca0d473/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200530030000 +0000" stop="20200530042500 +0000" channel="Rai Movie">
+    <title lang="it">Amore e inganni</title>
+    <desc lang="it">Regia di W. Stillman, con K.Beckinsale, C.Sevigny; USA 2016. Lady Susan Vernon, fascinosa vedova, si trasferisce temporaneamente con sua figlia nella tenuta dei suoceri mentre cerca un nuovo marito.(n)</desc>
+    <credits>
+      <director>Whit Stillman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Lochlann O'Mearain</actor>
+      <actor>Jenn Murray</actor>
+      <actor>Justin Edwards</actor>
+      <actor>Tom Bennett</actor>
+      <actor>Jemma Redgrave</actor>
+      <producer>Whit Stillman</producer>
+      <producer>Katie Holly</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/0ef5adf3-f565-4935-883c-206937e7cf92/cover" />
+    <country lang="it">NLD</country>
+  </programme>
+  <programme start="20200530042500 +0000" stop="20200530060500 +0000" channel="Rai Movie">
+    <title lang="it">Katia, regina senza corona</title>
+    <desc lang="it">Regia di R. Siodmak, con R.Schneider, C.Jurgens; FRA 1959. Storia dell'amore di una giovane bellissima donna che si innamora dello Zar Alessandro II, sfidando ogni pregiudizio sociale.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523054000 +0000" stop="20200523072000 +0000" channel="RAI Movie">
+    <title lang="it">La risaia</title>
+    <desc lang="it">Regia di R. Matarazzo, con E.Martinelli, F.Lulli; ITA 1956. Il padrone di una risaia riconosce in una sua mondina la figlia illegittima e la protegge senza svelarle la verita'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523072000 +0000" stop="20200523075000 +0000" channel="RAI Movie">
+    <title lang="it">Movie Mag</title>
+    <desc lang="it">Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita' e tematiche classiche.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523075000 +0000" stop="20200523094000 +0000" channel="RAI Movie">
+    <title lang="it">Nel sole</title>
+    <desc lang="it">Regia di A. Grimaldi, con R.Power, A.Carrisi; ITA 1967. Carlo Carrera, studente e cameriere, s'innamora della ricca Lorena. Fara' di tutto per fingersi miliardario.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523094000 +0000" stop="20200523115500 +0000" channel="RAI Movie">
+    <title lang="it">Vento di passioni</title>
+    <desc lang="it">Regia di E. Zwick, con B.Pitt, A.Hopkins; USA 1994. Nell'America della Grande Guerra, la storia dei fratelli Ludlow e del loro conflittuale rapporto a causa di una bella ragazza.(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Brad Pitt</actor>
+      <actor>David Kaye</actor>
+      <actor>Robert Wisden</actor>
+      <actor>John Novak</actor>
+      <actor>Gordon Tootoosis</actor>
+      <actor>Karina Lombard</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/3a6704fd-581e-49a6-95e3-f7b2f8f9e240/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200523115500 +0000" stop="20200523120000 +0000" channel="RAI Movie">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosita' dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523120000 +0000" stop="20200523133500 +0000" channel="RAI Movie">
+    <title lang="it">Franny</title>
+    <desc lang="it">Regia di A. Renzi, con R.Gere, D.Fanning; USA 2015. Un cinico milionario e' costretto a mettere a nudo le debolezze per aiutare la figlia di una coppia di amici scomparsi.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523133500 +0000" stop="20200523154000 +0000" channel="RAI Movie">
+    <title lang="it">90 minuti in Paradiso</title>
+    <desc lang="it">Regia di M. Polish, con H.Christensen, K.Bosworth; USA 2015. Tornato miracolosamente alla vita dopo un terribile incidente, Don Piper sostiene di aver visto il Paradiso.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523154000 +0000" stop="20200523173500 +0000" channel="RAI Movie">
+    <title lang="it">Ricomincio da noi</title>
+    <desc lang="it">Regia di R. Loncraine, con I.Staunton, T.Spall; GBR 2017. Il racconto di una donna che, dopo aver scoperto di essere tradita dal marito, reinventa la sua vita e mette su una compagnia di ballo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523173500 +0000" stop="20200523191000 +0000" channel="RAI Movie">
+    <title lang="it">Dick &amp; Jane - Operazione furto</title>
+    <desc lang="it">Regia di D. Parisot, con J.Carrey, T.Leoni; USA 2005. Dopo il fallimento dell'azienda, un uomo abituato a uno stile di vita benestante decide di darsi al crimine insieme alla moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200523191000 +0000" stop="20200523221500 +0000" channel="RAI Movie">
+    <title lang="it">Braveheart - Cuore impavido</title>
+    <desc lang="it">Regia di M. Gibson, con M.Gibson, S.Marceau; USA 1995. Nella Scozia del XIII secolo, William Wallace si mette a capo dei ribelli indipendentisti per vendicare la morte della sua amata.(n)</desc>
+    <credits>
+      <director>Mel Gibson</director>
+      <actor>Mel Gibson</actor>
+      <actor>Gerda Stevenson</actor>
+      <actor>James Robinson</actor>
+      <actor>Angus Macfadyen</actor>
+      <actor>Sean McGinley</actor>
+      <actor>James Cosmo</actor>
+      <producer>Stephen McEveety</producer>
+    </credits>
+    <date>1995</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/e696fb1d-4f3f-4e07-8240-77dcf51accd8/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200523221500 +0000" stop="20200524000000 +0000" channel="RAI Movie">
+    <title lang="it">Alex Cross - La memoria del killer</title>
+    <desc lang="it">Regia di R. Cohen, con T.Perry, M.Fox; USA 2012. Un detective guida le indagini su un presunto assassino, ma la caccia all'uomo si rivela piu' complessa del previsto.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524000000 +0000" stop="20200524013000 +0000" channel="RAI Movie">
+    <title lang="it">Number 23</title>
+    <desc lang="it">Regia di J. Schumacher, con J.Carrey, V.Madsen; USA 2006. Jim Carrey trascina un thriller innescato dalle sue paranoie. Ossessionato da un romanzo intitolato 'Il numero 23'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524013000 +0000" stop="20200524030000 +0000" channel="RAI Movie">
+    <title lang="it">The Giver - Il mondo di Jonas</title>
+    <desc lang="it">Regia di P. Noyce, con B.Thwaites, J.Bridges; USA 2014. In una societa' del futuro dove non esistono dolore e differenze, un ragazzo deve custodire le memorie dell'umanita'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524030000 +0000" stop="20200524043000 +0000" channel="RAI Movie">
+    <title lang="it">La dominatrice</title>
+    <desc lang="it">Regia di G. Stevens, con B.Stanwyck, M.Douglas; USA 1935. Un uomo e una donna, abili tiratori, vengono ingaggiati da un circo. L'iniziale competizione si trasformera' in amore...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524043000 +0000" stop="20200524062500 +0000" channel="RAI Movie">
+    <title lang="it">Foglie d'autunno</title>
+    <desc lang="it">Regia di R. Aldrich, con C.Robertson, J.Crawford; USA 1956. Dopo il matrimonio, la dattilografa Milly scopre che suo marito soffre di preoccupanti disturbi dovuti a traumi del passato.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524062500 +0000" stop="20200524083000 +0000" channel="RAI Movie">
+    <title lang="it">Se non avessi piu' te</title>
+    <desc lang="it">Regia di E. Fizzarotti, con G.Morandi, A.Polani; ITA 1964. Gianni Morandi e' un giovane cantautore. Intenzionato a sposare la fidanzata, dovra' farlo di nascosto dalla casa discografica.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524083000 +0000" stop="20200524102000 +0000" channel="RAI Movie">
+    <title lang="it">Toto', Vittorio e la dottoressa</title>
+    <desc lang="it">Regia di C. Mastrocinque, con Toto', V.De Sica; FRA/ITA 1957. Due millantatori sono assunti da due zie premurose che vogliono far pedinare la ragazza di cui si e' infatuato il nipote.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524102000 +0000" stop="20200524115000 +0000" channel="RAI Movie">
+    <title lang="it">Dick &amp; Jane - Operazione furto</title>
+    <desc lang="it">Regia di D. Parisot, con J.Carrey, T.Leoni; USA 2005. Dopo il fallimento dell'azienda, un uomo abituato a uno stile di vita benestante decide di darsi al crimine insieme alla moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524115000 +0000" stop="20200524133000 +0000" channel="RAI Movie">
+    <title lang="it">Qualunquemente</title>
+    <desc lang="it">Regia di G. Manfredonia, con A.Albanese, S.Rubini; ITA 2011. Dopo un periodo di latitanza, Cetto La Qualunque torna in Italia e si candida a sindaco per difendere la sua citta' dalla... legalita'.(n)</desc>
+    <credits>
+      <director>Giulio Manfredonia</director>
+      <actor>Antonio Albanese</actor>
+      <actor>Mario Cordova</actor>
+      <actor>Massimo De Lorenzo</actor>
+      <actor>Alfonso Postiglione</actor>
+      <actor>Veronica Da Silva</actor>
+      <actor>Antonio Gherardi</actor>
+      <producer>Domenico Procacci</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/5ee40f78-4792-4003-a2b3-2cc0603ba34b/cover" />
+    <country lang="it">ITA</country>
+  </programme>
+  <programme start="20200524133000 +0000" stop="20200524152000 +0000" channel="RAI Movie">
+    <title lang="it">I Tre Moschettieri</title>
+    <desc lang="it">Regia di P.W.S. Anderson, con L.Lerman, O.Bloom; GBR/DEU 2011. Il caparbio D'Artagnan si unisce a tre leggendari moschettieri per smascherare gli intrighi orditi dal cardinale Richelieu.(n)</desc>
+    <credits>
+      <director>Paul W.S. Anderson</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Gabriella Wilde</actor>
+      <actor>Freddie Fox</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Luke Evans</actor>
+      <producer>Martin Moszkowicz</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/f934edb1-3f2c-4c91-b057-e92bda12d872/cover" />
+    <country lang="it">GBR</country>
+  </programme>
+  <programme start="20200524152000 +0000" stop="20200524173000 +0000" channel="RAI Movie">
+    <title lang="it">La verita' e' che non gli piaci...</title>
+    <desc lang="it">...abbastanza - Regia di K. Kwapis, con B.Affleck, J.Aniston; DEU/USA 2009. A Baltimora si intrecciano le vicende di un gruppo di giovani donne: una tradita, una innamorata e un'altra volubile.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524173000 +0000" stop="20200524191000 +0000" channel="RAI Movie">
+    <title lang="it">Un turco napoletano</title>
+    <desc lang="it">Regia di M. Mattoli, con Toto', A.Giuffre'; ITA 1953. In fuga dalla polizia, Toto' arriva a casa di un uomo ossessionato dalla gelosia per la moglie. Si fara' passare per un eunuco.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524191000 +0000" stop="20200524204500 +0000" channel="RAI Movie">
+    <title lang="it">Belle &amp; Sebastien - Amici per sempre</title>
+    <desc lang="it">Regia di C. Cornillac, con F.Bossuet, T.Karyo; FRA 2017. Un uomo afferma di essere il padrone di Belle, ma Sebastien fara' di tutto per impedire che porti via la sua amica e i cuccioli.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524204500 +0000" stop="20200524224500 +0000" channel="RAI Movie">
+    <title lang="it">Chasing Mavericks - Sulla cresta...</title>
+    <desc lang="it">...dell'onda - Regia di C. Hanson, con G.Butler, J.Weston; USA 2012. Deciso a sfidare una delle piu' grandi onde sulla Terra, un giovane surfista chiede aiuto a una leggenda del surf per imparare a domarla.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200524224500 +0000" stop="20200525002000 +0000" channel="RAI Movie">
+    <title lang="it">Shade - Carta vincente</title>
+    <desc lang="it">Regia di D. Nieman, con S.Stallone, M.Griffith; USA 2003. Tre truffatori riescono a togliere ad un malfamato gangster un'ingente somma e ora si preparano a sedersi al tavolo contro 'il Decano', re del poker.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525002000 +0000" stop="20200525014500 +0000" channel="RAI Movie">
+    <title lang="it">W la foca</title>
+    <desc lang="it">Regia di N. Cicero, con L.Del Santo, M.Miti; ITA 1982. Un'infermiera trova lavoro come domestica presso una famiglia di Roma e tenta il successo in tv. Cult della commedia sexy.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525014500 +0000" stop="20200525030000 +0000" channel="RAI Movie">
+    <title lang="it">Pistolero senza onore</title>
+    <desc lang="it">Regia di S. Franklin, con C.Hittleman, S.Hayden; USA 1957. Dopo una rapina a una diligenza, un pistolero sfugge a un attentato tesogli dal proprio complice. Arrivato a un villaggio, diventa sceriffo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525030000 +0000" stop="20200525043500 +0000" channel="RAI Movie">
+    <title lang="it">Maciste alla corte del Gran Khan</title>
+    <desc lang="it">Regia di R. Freda, con G.Scott, Y.Tani; FRA/ITA 1962. Il Gran Khan dei Mongoli ha soppresso l'imperatore della Cina e ha preso il suo posto sul trono. Il gigante Maciste lo combatte...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525043500 +0000" stop="20200525060000 +0000" channel="RAI Movie">
+    <title lang="it">La strada per Forte Alamo</title>
+    <desc lang="it">Regia di M. Bava, con K.Clark, J.Clair; FRA/ITA 1964. La storia di due fuorilegge reduci da un colpo dove hanno indossato, a bella posta, divise da ufficiali nordisti.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525060000 +0000" stop="20200525074500 +0000" channel="RAI Movie">
+    <title lang="it">Il pranzo della domenica</title>
+    <desc lang="it">Regia di C. Vanzina, con G.Ralli, M.Ghini; ITA 2003. Le attenzioni di una signora borghese, rimasta vedova, si riversano sulle tre figlie. Ma i loro rapporti si complicano.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525074500 +0000" stop="20200525100000 +0000" channel="RAI Movie">
+    <title lang="it">Vento di passioni</title>
+    <desc lang="it">Regia di E. Zwick, con B.Pitt, A.Hopkins; USA 1994. Nell'America della Grande Guerra, la storia dei fratelli Ludlow e del loro conflittuale rapporto a causa di una bella ragazza.(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Brad Pitt</actor>
+      <actor>David Kaye</actor>
+      <actor>Robert Wisden</actor>
+      <actor>John Novak</actor>
+      <actor>Gordon Tootoosis</actor>
+      <actor>Karina Lombard</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/3a6704fd-581e-49a6-95e3-f7b2f8f9e240/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200525100000 +0000" stop="20200525120500 +0000" channel="RAI Movie">
+    <title lang="it">The Homesman</title>
+    <desc lang="it">Regia di T. Lee Jones, con T.Lee Jones, H.Swank; USA/FRA 2014. Una donna risoluta si assume l'incarico di scortare tre signore nel selvaggio West. La aiutera' un misterioso vagabondo.(n)</desc>
+    <credits>
+      <director>Tommy Lee Jones</director>
+      <actor>Hilary Swank</actor>
+      <actor>John Lithgow</actor>
+      <actor>David Dencik</actor>
+      <actor>Sonja Richter</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Tim Blake Nelson</actor>
+      <producer>Tommy Lee Jones</producer>
+      <producer>Michael Fitzgerald</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/96a52803-f7d0-4521-9242-3d32a7097397/cover" />
+    <country lang="it">FRA</country>
+  </programme>
+  <programme start="20200525120500 +0000" stop="20200525142500 +0000" channel="RAI Movie">
+    <title lang="it">Master &amp; Commander - Sfida ai confini...</title>
+    <desc lang="it">...del mare - Regia di P. Weir, con R.Crowe, P.Bettany; USA 2003. 1805. Un vascello britannico e uno francese si inseguono e si affrontano in mare aperto scambiandosi il ruolo di preda e predatore.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525142500 +0000" stop="20200525172500 +0000" channel="RAI Movie">
+    <title lang="it">Le miniere di Re Salomone</title>
+    <desc lang="it">Regia di S. Boyum, con P.Swayze, A.Doody; USA 2004. Un ex avventuriero accetta una missione impossibile: trovare il padre di una donna scomparso anni prima mentre cercava le Miniere di Re Salomone.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525172500 +0000" stop="20200525191000 +0000" channel="RAI Movie">
+    <title lang="it">Toto', lascia o raddoppia?</title>
+    <desc lang="it">Regia di C. Mastrocinque, con Toto', M.Bongiorno; ITA 1958. Uno scommettitore sfortunato cerca di mettere a frutto le sue competenze sui cavalli iscrivendosi al quiz di Mike Bongiorno.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525191000 +0000" stop="20200525211500 +0000" channel="RAI Movie">
+    <title lang="it">I professionisti</title>
+    <desc lang="it">Regia di R. Brooks, con B.Lancaster, L.Marvin; USA 1966. Un ricco industriale sembra disperato per il rapimento della moglie. Quattro uomini partono per liberarla, ma scoprono che l'uomo gli ha mentito.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525211500 +0000" stop="20200525230000 +0000" channel="RAI Movie">
+    <title lang="it">I pistoleri maledetti</title>
+    <desc lang="it">Regia di W. Witney, con A.Murphy, M.Dante; USA 1965. Il capitano Andrews, per acciuffare il resto di una banda, si serve di due suoi membri imprigionati. Tradimenti e tante sparatorie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200525230000 +0000" stop="20200526005000 +0000" channel="RAI Movie">
+    <title lang="it">Bleed - Piu' forte del destino</title>
+    <desc lang="it">Regia di B. Younger, con M.Teller, A.Eckhart; USA 2016. Reduce da un terribile incidente stradale, il pugile Vinnie Pazienza torna sul ring per combattere un leggendario match.(n)</desc>
+    <credits>
+      <director>Ben Younger</director>
+      <actor>Miles Teller</actor>
+      <actor>Tina Casciani</actor>
+      <actor>Daniel Sauli</actor>
+      <actor>Amanda Clayton</actor>
+      <actor>Christine Evangelista</actor>
+      <actor>Ted Levine</actor>
+      <producer>Myles Nestel</producer>
+      <producer>Martin Scorsese</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/bdea0415-8079-42a4-bcf4-3c74474d0b28/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200526005000 +0000" stop="20200526030000 +0000" channel="RAI Movie">
+    <title lang="it">Vertical Limit</title>
+    <desc lang="it">Regia di M. Campbell, con C.O'Donnell, S.Glenn; DEU/USA 2000. Peter, scampato anni prima a un incidente in montagna, dovra' tornare a scalare per salvare degli alpinisti sul K2.(n)</desc>
+    <credits>
+      <director>Martin Campbell</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Steve Le Marquand</actor>
+      <actor>Augie Davis</actor>
+      <actor>Stuart Wilson</actor>
+      <actor>Alexander Siddig</actor>
+      <producer>Robert King</producer>
+      <producer>Martin Campbell</producer>
+    </credits>
+    <date>2000</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/cb583969-a46b-4752-98f1-1752ae07dac7/cover" />
+    <country lang="it">GER</country>
+  </programme>
+  <programme start="20200526030000 +0000" stop="20200526050500 +0000" channel="RAI Movie">
+    <title lang="it">Master &amp; Commander - Sfida ai confini...</title>
+    <desc lang="it">...del mare - Regia di P. Weir, con R.Crowe, P.Bettany; USA 2003. 1805. Un vascello britannico e uno francese si inseguono e si affrontano in mare aperto scambiandosi il ruolo di preda e predatore.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526050500 +0000" stop="20200526065000 +0000" channel="RAI Movie">
+    <title lang="it">Sua Eccellenza si fermo' a mangiare</title>
+    <desc lang="it">Regia di M. Mattoli, con Toto', U.Tognazzi; ITA 1961. Italia del Fascismo. Un ladro, deciso a svaligiare una ricca casa, partecipa ad una festa facendosi passare per un medico.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526065000 +0000" stop="20200526083500 +0000" channel="RAI Movie">
+    <title lang="it">I motorizzati</title>
+    <desc lang="it">Regia di C. Mastrocinque, con U.Tognazzi, N.Manfredi; ITA 1962. Tre episodi in cui si raccontano la smania motoristica degli anni '60 e le truffe legate al mondo delle assicurazioni.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526083500 +0000" stop="20200526101000 +0000" channel="RAI Movie">
+    <title lang="it">Jerryssimo!</title>
+    <desc lang="it">Regia di G. Marshall, con J.Lewis, A.Francis; USA 1969. Peter viene informato dal suo medico che ha pochi mesi di vita e, mentre lui accumula debiti in vacanza, l'altro cerca di soffiargli la moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526101000 +0000" stop="20200526120500 +0000" channel="RAI Movie">
+    <title lang="it">Il mercenario</title>
+    <desc lang="it">Regia di S. Corbucci, con F.Nero, T.Musante; ITA 1968. Le avventure del ribelle Paco e del suo socio Serghiei alla vigilia di una rivoluzione sudamericana. Con Franco Nero.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526120500 +0000" stop="20200526135000 +0000" channel="RAI Movie">
+    <title lang="it">Ballata per un pistolero</title>
+    <desc lang="it">Regia di A. Caltabiano, con D.Bojanovic, A.Infanti; ITA 1966. Spaghetti western che ha per protagonisti due cacciatori di taglie. La resa dei conti sara' con una banda sanguinaria all'interno di una miniera.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526135000 +0000" stop="20200526154500 +0000" channel="RAI Movie">
+    <title lang="it">E' tornato Sabata... hai chiuso...</title>
+    <desc lang="it">...un'altra volta! - Regia di F. Kramer, con L.Van Cleef, G.Albertini; FRA/ITA 1971. Sabata insieme ad un suo ex commilitone, un imbonitore e due ex ladruncoli riuscira' a spillare un milione di dollari ad un imbroglione irlandese.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526154500 +0000" stop="20200526171500 +0000" channel="RAI Movie">
+    <title lang="it">Una pistola per cento bare</title>
+    <desc lang="it">Regia di U. Lenzi, con P.Lawrence, J.Ireland; ITA 1968. Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e' stata sterminata.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526171500 +0000" stop="20200526191000 +0000" channel="RAI Movie">
+    <title lang="it">La stanza del vescovo</title>
+    <desc lang="it">Regia di D. Risi, con U.Tognazzi, O.Muti; ITA 1977. La provincia, luogo di segreti e vita a volte grezza. Da un romanzo di Piero Chiara, la storia di un professionista enigmatico.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526191000 +0000" stop="20200526211500 +0000" channel="RAI Movie">
+    <title lang="it">The Post</title>
+    <desc lang="it">Regia di S. Spielberg, con M.Streep, T.Hanks; USA 2017. Anni '70. Il governo USA nascose ai cittadini importanti informazioni sulla guerra in Vietnam, ma il 'Washington Post' scopri' la verita'.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526211500 +0000" stop="20200526225500 +0000" channel="RAI Movie">
+    <title lang="it">Aspettando il re</title>
+    <desc lang="it">Regia di T. Tykwer, con T.Hanks, S.Choudhury; GBR/DEU 2016. Un rappresentante americano in crisi prova a risollevare i suoi affari tentando di vendere un importante prodotto al Re dell'Arabia Saudita.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200526225500 +0000" stop="20200527005000 +0000" channel="RAI Movie">
+    <title lang="it">Fiore</title>
+    <desc lang="it">Regia di C. Giovannesi, con D.Scoccia, V.Mastandrea; ITA 2016. Una squadra di agenti speciali, incaricati di proteggere un narcotrafficante, si ritrova assediata all'interno di un hotel.(n)</desc>
+    <credits>
+      <director>Claudio Giovannesi</director>
+      <actor>Daphne Scoccia</actor>
+      <actor>Francesca Riso</actor>
+      <actor>Klea Marku</actor>
+      <actor>Gessica Giulianeeli</actor>
+      <actor>Aniello Arena</actor>
+      <actor>Antonella Lattanzi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/09da18ec-f4cf-4a5c-bfd8-eb5a08a94934/cover" />
+    <country lang="it">ITA</country>
+  </programme>
+  <programme start="20200527005000 +0000" stop="20200527030000 +0000" channel="RAI Movie">
+    <title lang="it">Windstruck - Ti presento la mia ragazza</title>
+    <desc lang="it">Regia di J. Kwak, con H.Jang, S.Kim; KOR 2004. Myung-woo, insegnante di fisica, viene scambiato per uno scippatore e arrestato dalla poliziotta Kyung-jin che pero' si innamora dell'uomo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527030000 +0000" stop="20200527042500 +0000" channel="RAI Movie">
+    <title lang="it">Jerryssimo!</title>
+    <desc lang="it">Regia di G. Marshall, con J.Lewis, A.Francis; USA 1969. Peter viene informato dal suo medico che ha pochi mesi di vita e, mentre lui accumula debiti in vacanza, l'altro cerca di soffiargli la moglie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527042500 +0000" stop="20200527054500 +0000" channel="RAI Movie">
+    <title lang="it">La Venere dei pirati</title>
+    <desc lang="it">Regia di M. Costa, con G.M.Canale, M.Serato; ITA 1960. Nel Seicento una ragazza diventa regina dei pirati. Conosciuta con nome di Venere dei pirati, diventera' famosa per le sue gesta.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527054500 +0000" stop="20200527071500 +0000" channel="RAI Movie">
+    <title lang="it">L'imperatore di Capri</title>
+    <desc lang="it">Regia di L. Comencini, con Toto', Y.Sanson; ITA 1949. Una grande somiglianza con un principe arabo rende popolarissimo il cameriere Toto'. Quando sta per essere incoronato imperatore, sopraggiunge quello vero.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527071500 +0000" stop="20200527085500 +0000" channel="RAI Movie">
+    <title lang="it">W le donne</title>
+    <desc lang="it">Regia di A. Grimaldi, con F.Franchi, C.Ingrassia; ITA 1970. Franchi e Ingrassia nella vicenda di un cantante chiamato alle armi. Si innamorera' della figlia del terribile maresciallo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527085500 +0000" stop="20200527102500 +0000" channel="RAI Movie">
+    <title lang="it">La settimana bianca</title>
+    <desc lang="it">Regia di M. Laurenti, con E.Cannavale, A.Rizzoli; ITA 1981. Un gruppo di impiegati in vacanza sulla neve si impegna non tanto nello sci quanto nella conquista della collega piu' carina.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527102500 +0000" stop="20200527115500 +0000" channel="RAI Movie">
+    <title lang="it">I tre implacabili</title>
+    <desc lang="it">Regia di J. Romero Marchent, con J.Horne, C.Undari; ITA 1963. Un gruppo di banditi uccide la giovane moglie del proprietario di un ranch. Questi partira' alla ricerca dei sette assassini...(n)</desc>
+    <category lang="it">Altro</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527115500 +0000" stop="20200527134000 +0000" channel="RAI Movie">
+    <title lang="it">I pistoleri maledetti</title>
+    <desc lang="it">Regia di W. Witney, con A.Murphy, M.Dante; USA 1965. Il capitano Andrews, per acciuffare il resto di una banda, si serve di due suoi membri imprigionati. Tradimenti e tante sparatorie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527134000 +0000" stop="20200527152000 +0000" channel="RAI Movie">
+    <title lang="it">Faccia a faccia</title>
+    <desc lang="it">Regia di S. Sollima, con G.M.Volonte', W.Berger; ITA 1967. Un professore malandato viene rapito da una banda del West: finira' per subire il fascino dell'avventurosa vita criminale.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527152000 +0000" stop="20200527173000 +0000" channel="RAI Movie">
+    <title lang="it">I lunghi giorni della vendetta</title>
+    <desc lang="it">Regia di F. Vancini, con G.Gemma, F.Rabal; FRA/ITA 1967. Ted evade di prigione per vendicare la morte del padre. Ci riuscira' grazie all'aiuto di una donna e di un onesto giudice.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527173000 +0000" stop="20200527191000 +0000" channel="RAI Movie">
+    <title lang="it">Delitto a Porta Romana</title>
+    <desc lang="it">Regia di B. Corbucci, con T.Milian, Bombolo; ITA 1980. Il ladro 'Venticello' si introduce in un appartamento dove viene assassinata una donna. E lui, testimone, ne fara' le spese.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527191000 +0000" stop="20200527214000 +0000" channel="RAI Movie">
+    <title lang="it">Otto e mezzo</title>
+    <desc lang="it">Regia di F. Fellini, con M.Mastroianni, S.Milo; ITA 1963. Capolavoro di Fellini. Un maturo regista sul set del suo prossimo film si trova a fare il bilancio della sua vita, tra sogni, ricordi e immaginazione.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527214000 +0000" stop="20200527220500 +0000" channel="RAI Movie">
+    <title lang="it">Movie Mag</title>
+    <desc lang="it">Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita' e tematiche classiche.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200527220500 +0000" stop="20200528005000 +0000" channel="RAI Movie">
+    <title lang="it">Il profeta</title>
+    <desc lang="it">Regia di J. Audiard, con T.Rahim, N.Arestrup; FRA 2009. Un diciottenne condannato a sei anni di prigione finisce sotto il giogo degli altri detenuti, ma finira' per farsi rispettare.(n)</desc>
+    <credits>
+      <director>Jacques Audiard</director>
+      <actor>Tahar Rahim</actor>
+      <actor>Foued Nassah</actor>
+      <actor>Pierre Leccia</actor>
+      <actor>Antoine Basler</actor>
+      <actor>Gilles Cohen</actor>
+      <actor>Jean-Philippe Ricci</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/1d9cd124-08c9-4003-b7cb-737f8168f8dd/cover" />
+    <country lang="it">ITA</country>
+  </programme>
+  <programme start="20200528005000 +0000" stop="20200528030000 +0000" channel="RAI Movie">
+    <title lang="it">Song to Song</title>
+    <desc lang="it">Regia di T. Malick, con R.Gosling, R.Mara; USA 2017. Ad Austin, citta' di artisti e produttori, un musicista in cerca di successo si innamora di una ragazza tra lussuria e tradimenti.(n)</desc>
+    <credits>
+      <director>Terrence Malick</director>
+      <actor>Michael Fassbender</actor>
+      <actor>Heather Kafka</actor>
+      <actor>Bérénice Marlohe</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Holly Hunter</actor>
+      <actor>Cate Blanchett</actor>
+      <producer>Glen Basner</producer>
+      <producer>Christos V. Konstantakopoulos</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/1abb1f50-7ef3-4d5b-aa95-b34c6b608cfa/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200528030000 +0000" stop="20200528044000 +0000" channel="RAI Movie">
+    <title lang="it">Operazione 'Z'</title>
+    <desc lang="it">Regia di T. Garnett, con R.Mitchum, A.Blyth; USA 1952. Lo sbarco in Corea e' imminente, ma l'ufficiale incaricato di organizzare il rimpatrio degli americani viene ferito.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528044000 +0000" stop="20200528062000 +0000" channel="RAI Movie">
+    <title lang="it">I quattro monaci</title>
+    <desc lang="it">Regia di C.L. Bragaglia, con P.De Filippo, A.Fabrizi; ITA 1962. Quattro lestofanti travestiti da frati si rifugiano in un convento. Presa confidenza con la vita monastica, iniziano a taglieggiare i negozianti.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528062000 +0000" stop="20200528080000 +0000" channel="RAI Movie">
+    <title lang="it">Eccezzziunale... veramente</title>
+    <desc lang="it">Regia di C. Vanzina, con D.Abatantuono, M.Boldi; ITA 1982. Tre episodi che hanno per protagonisti un tifoso milanista, un interista e uno juventino; tutti e tre con il volto di Diego Abatantuono.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528080000 +0000" stop="20200528100000 +0000" channel="RAI Movie">
+    <title lang="it">Joy</title>
+    <desc lang="it">Regia di D.O. Russell, con J.Lawrence, R.De Niro; USA 2015. Scontenta della propria vita ma con un'idea geniale in testa, Joy brevetta un mocio che la condurra' verso un non facile successo.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Jimmy Jean-Louis</actor>
+      <actor>Diane Ladd</actor>
+      <actor>Isabella Rossellini</actor>
+      <actor>Virginia Madsen</actor>
+      <actor>Elisabeth Röhm</actor>
+      <producer>Mary McLaglen</producer>
+      <producer>Joy Mangano</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/c68e47fd-5d04-4ef1-9e7f-f325b95ca36a/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200528100000 +0000" stop="20200528115000 +0000" channel="RAI Movie">
+    <title lang="it">I sette del Texas</title>
+    <desc lang="it">Regia di J. Romero Marchent, con R.Undari, F.Sancho; ITA 1964. Texas. Un ricco proprietario terriero deve attraversare il deserto per portare all'ospedale la moglie ammalata. Un viaggio che sara' pieno d'insidie.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528115000 +0000" stop="20200528141000 +0000" channel="RAI Movie">
+    <title lang="it">...E poi lo chiamarono il Magnifico</title>
+    <desc lang="it">Regia di E. Barboni, con T.Hill, G.Walcott; FRA/ITA 1972. In fuga dalla natia Inghilterra per via di uno scandalo, un giovane nobile approda in America, dove diventera' un pistolero.(n)</desc>
+    <credits>
+      <director>Enzo Barboni</director>
+      <actor>Terence Hill</actor>
+      <actor>Alessandro Sperli</actor>
+      <actor>Jean Louis</actor>
+      <actor>Riccardo Pizzuti</actor>
+      <actor>Danika La Loggia</actor>
+      <actor>Enzo Fiermonte</actor>
+    </credits>
+    <date>1972</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/608f4c7f-0497-452d-a5b7-396edfa06ad0/cover" />
+    <country lang="it">JUG</country>
+  </programme>
+  <programme start="20200528141000 +0000" stop="20200528154500 +0000" channel="RAI Movie">
+    <title lang="it">Il figlio di Django</title>
+    <desc lang="it">Regia di O. Civirani, con G.Madison, G.Tinti; ITA 1967. Unitosi ad una banda di pistoleri per vendicare la morte del padre, Tracy finisce invece per convertirsi al cristianesimo.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528154500 +0000" stop="20200528171500 +0000" channel="RAI Movie">
+    <title lang="it">Una pistola per cento bare</title>
+    <desc lang="it">Regia di U. Lenzi, con P.Lawrence, J.Ireland; ITA 1968. Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e' stata sterminata.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528171500 +0000" stop="20200528191000 +0000" channel="RAI Movie">
+    <title lang="it">Piedone d'Egitto</title>
+    <desc lang="it">Regia di Steno, con B.Spencer, E.Cannavale; ITA 1979. Piedone e il fedele Caputo partono per Il Cairo alla ricerca di un professore, notorio esperto di giacimenti petroliferi.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528191000 +0000" stop="20200528211000 +0000" channel="RAI Movie">
+    <title lang="it">Veloce come il vento</title>
+    <desc lang="it">Regia di M. Rovere, con S.Accorsi, M.De Angelis; ITA 2016. Il difficile rapporto tra la talentuosa pilota Giulia e suo fratello Loris, una leggenda dell'automobilismo diventato tossicodipendente.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528211000 +0000" stop="20200528225500 +0000" channel="RAI Movie">
+    <title lang="it">Alex Cross - La memoria del killer</title>
+    <desc lang="it">Regia di R. Cohen, con T.Perry, M.Fox; USA 2012. Un detective guida le indagini su un presunto assassino, ma la caccia all'uomo si rivela piu' complessa del previsto.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200528225500 +0000" stop="20200529005000 +0000" channel="RAI Movie">
+    <title lang="it">L'avventura del Poseidon</title>
+    <desc lang="it">Regia di R. Neame, con G.Hackman, E.Borgnine; USA 1972. Un transatlantico di lusso alla sua ultima crociera viene travolto da un'enorme ondata. Per i dieci sopravvissuto sulla nave inizia una lunga odissea...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529005000 +0000" stop="20200529005500 +0000" channel="RAI Movie">
+    <title lang="it">Anica Appuntamento al cinema</title>
+    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529005500 +0000" stop="20200529023000 +0000" channel="RAI Movie">
+    <title lang="it">Vicolo cieco</title>
+    <desc lang="it">Regia di A. Goddard, con P.Wilson, J.Biel; USA 2016. New York, anni '60. Walter e' sposato con Sara, ma si innamora di Ellie, mentre entra in scena un misterioso assassino.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529023000 +0000" stop="20200529030000 +0000" channel="RAI Movie">
+    <title lang="it">Lasciali ridendo</title>
+    <desc lang="it">con C.Bruckman; USA 1928. Stanlio e' preoccupato per la seduta dal dentista, ma a sostenerlo c'e' Ollio. Peccato che entrambi inalino gas esilarante e...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529030000 +0000" stop="20200529045500 +0000" channel="RAI Movie">
+    <title lang="it">Ballata per un pistolero</title>
+    <desc lang="it">Regia di A. Caltabiano, con D.Bojanovic, A.Infanti; ITA 1966. Spaghetti western che ha per protagonisti due cacciatori di taglie. La resa dei conti sara' con una banda sanguinaria all'interno di una miniera.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529045500 +0000" stop="20200529070500 +0000" channel="RAI Movie">
+    <title lang="it">I lunghi giorni della vendetta</title>
+    <desc lang="it">Regia di F. Vancini, con G.Gemma, F.Rabal; FRA/ITA 1967. Ted evade di prigione per vendicare la morte del padre. Ci riuscira' grazie all'aiuto di una donna e di un onesto giudice.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529070500 +0000" stop="20200529085500 +0000" channel="RAI Movie">
+    <title lang="it">Operazione San Gennaro</title>
+    <desc lang="it">Regia di D. Risi, con N.Manfredi, S.Berger; FRA/ITA 1966. Tre ladri americani vogliono rubare il tesoro di San Gennaro e si affidano all'abilita' del napoletano Dudu'. Qualcuno fa il doppiogioco.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529085500 +0000" stop="20200529103000 +0000" channel="RAI Movie">
+    <title lang="it">Fotoromanzo</title>
+    <desc lang="it">Regia di M. Laurenti, con N.D'Angelo, B.Feirri; ITA 1986. Nino, figlio di una portinaia che sogna di sfondare scrivendo canzoni, si trasferisce a Milano per seguire la fidanzata.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529103000 +0000" stop="20200529120000 +0000" channel="RAI Movie">
+    <title lang="it">I tre del Colorado</title>
+    <desc lang="it">Regia di A. de Ossorio, con G.Martin, L.Marin; ITA 1966. I meticci dell'Hudson si ribellano ai soprusi dei coloni inglesi. Nel corso della guerriglia rapiscono la figlia di un industriale.(n)</desc>
+    <category lang="it">Altro</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529120000 +0000" stop="20200529135500 +0000" channel="RAI Movie">
+    <title lang="it">Snitch - l'infiltrato</title>
+    <desc lang="it">Regia di R.R. Waugh, con D.Johnson, B.Pepper; SAU 2013. Il manager John Matthews deve infiltrarsi in un giro di spacciatori per far scagionare il figlio, ingiustamente accusato.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529135500 +0000" stop="20200529140000 +0000" channel="RAI Movie">
+    <title lang="it">Gli imperdibili</title>
+    <desc lang="it">Backstage, anteprime, eventi e curiosita' dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.(n)</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529140000 +0000" stop="20200529154000 +0000" channel="RAI Movie">
+    <title lang="it">Sette donne per i McGregor</title>
+    <desc lang="it">Regia di F. Giraldi, con D.Bailey, A.Flori; ITA 1967. Durante le nozze di MacGregor, l'oro di famiglia viene trafugato da un bandito. Tutto il clan si mette sulle sue tracce...(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529154000 +0000" stop="20200529172000 +0000" channel="RAI Movie">
+    <title lang="it">Il sentiero della violenza</title>
+    <desc lang="it">Regia di P. Karlson, con V.Heflin, T.Hunter; USA 1958. Un rude allevatore di bestiame, fiero di suo figlio perche', come lui, di modi spicci, e' costretto ad affrontarlo quando il ragazzo comincia a uccidere.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529172000 +0000" stop="20200529191000 +0000" channel="RAI Movie">
+    <title lang="it">Toto', Vittorio e la dottoressa</title>
+    <desc lang="it">Regia di C. Mastrocinque, con Toto', V.De Sica; FRA/ITA 1957. Due millantatori sono assunti da due zie premurose che vogliono far pedinare la ragazza di cui si e' infatuato il nipote.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+  <programme start="20200529191000 +0000" stop="20200529210500 +0000" channel="RAI Movie">
+    <title lang="it">La verita' negata</title>
+    <desc lang="it">Regia di M. Jackson, con R.Weisz, T.Spall; USA/GBR 2016. La battaglia legale intentata da David Irving verso la storica Deborah Lipstadt e la casa editrice Penguin Books.(n)</desc>
+    <credits>
+      <director>Mick Jackson</director>
+      <actor>John Sessions</actor>
+      <actor>Alex Jennings</actor>
+      <actor>Harriet Walter</actor>
+      <actor>Mark Gatiss</actor>
+      <actor>Andrew Scott</actor>
+      <actor>Tom Wilkinson</actor>
+      <producer>Guy Heeley</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/6f5e1302-aa57-4421-9e0c-2a21031d69ed/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200529210500 +0000" stop="20200529230500 +0000" channel="RAI Movie">
+    <title lang="it">Captain Fantastic</title>
+    <desc lang="it">Regia di M. Ross, con V.Mortensen, G.MacKay; USA 2016. Deciso a crescere i suoi sei figli nella foresta, lontano dalla societa' industriale, un uomo dovra' rivedere le sue controverse scelte.(n)</desc>
+    <credits>
+      <director>Matt Ross</director>
+      <actor>Viggo Mortensen</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Trin Miller</actor>
+      <actor>Charlie Shotwell</actor>
+      <actor>Frank Langella</actor>
+      <actor>Shree Crooks</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/072ca8a1-82e1-4f69-8e6d-0682d371b577/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200529230500 +0000" stop="20200530012000 +0000" channel="RAI Movie">
+    <title lang="it">Vento di passioni</title>
+    <desc lang="it">Regia di E. Zwick, con B.Pitt, A.Hopkins; USA 1994. Nell'America della Grande Guerra, la storia dei fratelli Ludlow e del loro conflittuale rapporto a causa di una bella ragazza.(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Brad Pitt</actor>
+      <actor>David Kaye</actor>
+      <actor>Robert Wisden</actor>
+      <actor>John Novak</actor>
+      <actor>Gordon Tootoosis</actor>
+      <actor>Karina Lombard</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/3a6704fd-581e-49a6-95e3-f7b2f8f9e240/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200530012000 +0000" stop="20200530030000 +0000" channel="RAI Movie">
+    <title lang="it">Empire State</title>
+    <desc lang="it">Regia di D. Montiel, con L.Hemsworth, M.Angarano; USA 2013. Due amici d'infanzia organizzano la rapina ad un furgone blindato. Il poliziotto che segue il caso dovra' scovare i criminali.(n)</desc>
+    <credits>
+      <director>Dito Montiel</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>James Ransone</actor>
+      <actor>Jerry Ferrara</actor>
+      <actor>Shenae Grimes</actor>
+      <actor>Lydia Hull</actor>
+      <actor>Nikki Reed</actor>
+      <producer>Barry Brooker</producer>
+      <producer>Michael Blencowe</producer>
+      <producer>Sandy Kyrkostas</producer>
+      <producer>Brett Granstaff</producer>
+      <producer>George Furla</producer>
+      <producer>Ted Fox</producer>
+      <producer>Randall Emmett</producer>
+      <producer>Remington Chase</producer>
+      <producer>Jason Gandhi</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/045c248a-b70e-426b-8db3-693ddca0d473/cover" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20200530030000 +0000" stop="20200530042500 +0000" channel="RAI Movie">
+    <title lang="it">Amore e inganni</title>
+    <desc lang="it">Regia di W. Stillman, con K.Beckinsale, C.Sevigny; USA 2016. Lady Susan Vernon, fascinosa vedova, si trasferisce temporaneamente con sua figlia nella tenuta dei suoceri mentre cerca un nuovo marito.(n)</desc>
+    <credits>
+      <director>Whit Stillman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Lochlann O'Mearain</actor>
+      <actor>Jenn Murray</actor>
+      <actor>Justin Edwards</actor>
+      <actor>Tom Bennett</actor>
+      <actor>Jemma Redgrave</actor>
+      <producer>Whit Stillman</producer>
+      <producer>Katie Holly</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/uuid/0ef5adf3-f565-4935-883c-206937e7cf92/cover" />
+    <country lang="it">NLD</country>
+  </programme>
+  <programme start="20200530042500 +0000" stop="20200530060500 +0000" channel="RAI Movie">
+    <title lang="it">Katia, regina senza corona</title>
+    <desc lang="it">Regia di R. Siodmak, con R.Schneider, C.Jurgens; FRA 1959. Storia dell'amore di una giovane bellissima donna che si innamora dello Zar Alessandro II, sfidando ogni pregiudizio sociale.(n)</desc>
+    <category lang="it">Film</category>
+    <icon src="https://guidatv.sky.it/default-cover.png" />
+  </programme>
+</tv>
