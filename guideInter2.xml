@@ -2,141 +2,1289 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Rai Movie">
     <display-name lang="it">Rai Movie</display-name>
-    <url>http://www.guidatv.sky.it</url>
-  </channel>
-  <channel id="RAI Movie (Itália)">
-    <display-name lang="it">RAI Movie (Itália)</display-name>
-    <url>http://www.raiplay.it</url>
-  </channel>
-  <channel id="Rai Movie  5024">
-    <display-name lang="it">Rai Movie  5024</display-name>
-    <url>http://www.guidatv.sky.it</url>
-  </channel>
-  <channel id="Rai Movie (Itália) ">
-    <display-name lang="it">Rai Movie (Itália)</display-name>
     <url>http://www.laguidatv.it</url>
   </channel>
-  <programme start="20200525001000 +0200" stop="20200525013500 +0200" channel="Rai Movie (Itália) ">
+  <channel id="Rai 2">
+    <display-name lang="it">Rai 2</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Rai 3">
+    <display-name lang="it">Rai 3</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Rai 4">
+    <display-name lang="it">Rai 4</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Rai 5">
+    <display-name lang="it">Rai 5</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Rai Premium">
+    <display-name lang="it">Rai Premium</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <programme start="20200525001000 +0200" stop="20200525013500 +0200" channel="Rai Movie">
     <title lang="it">W la foca</title>
   </programme>
-  <programme start="20200525013500 +0200" stop="20200525024000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525013500 +0200" stop="20200525024000 +0200" channel="Rai Movie">
     <title lang="it">La battaglia di Monterey</title>
   </programme>
-  <programme start="20200525024000 +0200" stop="20200525030000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525024000 +0200" stop="20200525030000 +0200" channel="Rai Movie">
     <title lang="it">Stanlio e Ollio</title>
   </programme>
-  <programme start="20200525030000 +0200" stop="20200525030500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525030000 +0200" stop="20200525030500 +0200" channel="Rai Movie">
     <title lang="it">Mammamia</title>
   </programme>
-  <programme start="20200525030500 +0200" stop="20200525044000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525030500 +0200" stop="20200525044000 +0200" channel="Rai Movie">
     <title lang="it">Maciste alla corte del Gran Khan</title>
   </programme>
-  <programme start="20200525044000 +0200" stop="20200525060000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525044000 +0200" stop="20200525060000 +0200" channel="Rai Movie">
     <title lang="it">La strada per Forte Alamo</title>
   </programme>
-  <programme start="20200525060000 +0200" stop="20200525074500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525060000 +0200" stop="20200525074500 +0200" channel="Rai Movie">
     <title lang="it">Il pranzo della domenica</title>
   </programme>
-  <programme start="20200525074500 +0200" stop="20200525095500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525074500 +0200" stop="20200525095500 +0200" channel="Rai Movie">
     <title lang="it">Vento di passioni</title>
   </programme>
-  <programme start="20200525095500 +0200" stop="20200525120500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525095500 +0200" stop="20200525120500 +0200" channel="Rai Movie">
     <title lang="it">The Homesman</title>
   </programme>
-  <programme start="20200525120500 +0200" stop="20200525142500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525120500 +0200" stop="20200525142500 +0200" channel="Rai Movie">
     <title lang="it">Master &amp; Commander</title>
   </programme>
-  <programme start="20200525142500 +0200" stop="20200525172500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525142500 +0200" stop="20200525172500 +0200" channel="Rai Movie">
     <title lang="it">Le miniere di re Salomone</title>
   </programme>
-  <programme start="20200525172500 +0200" stop="20200525191000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525172500 +0200" stop="20200525191000 +0200" channel="Rai Movie">
     <title lang="it">Totò lascia o raddoppia?</title>
   </programme>
-  <programme start="20200525191000 +0200" stop="20200525210500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525191000 +0200" stop="20200525210500 +0200" channel="Rai Movie">
     <title lang="it">I professionisti</title>
   </programme>
-  <programme start="20200525210500 +0200" stop="20200525225000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525210500 +0200" stop="20200525225000 +0200" channel="Rai Movie">
     <title lang="it">I pistoleri maledetti</title>
   </programme>
-  <programme start="20200525225000 +0200" stop="20200526004500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200525225000 +0200" stop="20200526004500 +0200" channel="Rai Movie">
     <title lang="it">Bleed</title>
   </programme>
-  <programme start="20200526004500 +0200" stop="20200526023500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526004500 +0200" stop="20200526023500 +0200" channel="Rai Movie">
     <title lang="it">Vertical Limit</title>
   </programme>
-  <programme start="20200526023500 +0200" stop="20200526030000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526023500 +0200" stop="20200526030000 +0200" channel="Rai Movie">
     <title lang="it">Stanlio e Ollio</title>
   </programme>
-  <programme start="20200526030000 +0200" stop="20200526050500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526030000 +0200" stop="20200526050500 +0200" channel="Rai Movie">
     <title lang="it">Master &amp; Commander</title>
   </programme>
-  <programme start="20200526050500 +0200" stop="20200526065000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526050500 +0200" stop="20200526065000 +0200" channel="Rai Movie">
     <title lang="it">Sua Eccellenza si fermò a mangiare</title>
   </programme>
-  <programme start="20200526065000 +0200" stop="20200526083500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526065000 +0200" stop="20200526083500 +0200" channel="Rai Movie">
     <title lang="it">I motorizzati</title>
   </programme>
-  <programme start="20200526083500 +0200" stop="20200526101000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526083500 +0200" stop="20200526101000 +0200" channel="Rai Movie">
     <title lang="it">Jerryssimo!</title>
   </programme>
-  <programme start="20200526101000 +0200" stop="20200526120500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526101000 +0200" stop="20200526120500 +0200" channel="Rai Movie">
     <title lang="it">Il mercenario</title>
   </programme>
-  <programme start="20200526120500 +0200" stop="20200526135000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526120500 +0200" stop="20200526135000 +0200" channel="Rai Movie">
     <title lang="it">Ballata per un pistolero</title>
   </programme>
-  <programme start="20200526135000 +0200" stop="20200526154500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526135000 +0200" stop="20200526154500 +0200" channel="Rai Movie">
     <title lang="it">E' tornato Sabata... hai chiuso un'altra volta!...</title>
   </programme>
-  <programme start="20200526154500 +0200" stop="20200526171500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526154500 +0200" stop="20200526171500 +0200" channel="Rai Movie">
     <title lang="it">Una pistola per cento bare</title>
   </programme>
-  <programme start="20200526171500 +0200" stop="20200526191000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526171500 +0200" stop="20200526191000 +0200" channel="Rai Movie">
     <title lang="it">La stanza del vescovo</title>
   </programme>
-  <programme start="20200526191000 +0200" stop="20200526211500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526191000 +0200" stop="20200526211500 +0200" channel="Rai Movie">
     <title lang="it">The Post</title>
   </programme>
-  <programme start="20200526211500 +0200" stop="20200526225500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526211500 +0200" stop="20200526225500 +0200" channel="Rai Movie">
     <title lang="it">Aspettando il re</title>
   </programme>
-  <programme start="20200526225500 +0200" stop="20200527005000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200526225500 +0200" stop="20200527005000 +0200" channel="Rai Movie">
     <title lang="it">Fiore</title>
   </programme>
-  <programme start="20200527005000 +0200" stop="20200527030000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200527005000 +0200" stop="20200527030000 +0200" channel="Rai Movie">
     <title lang="it">Ti presento la mia ragazza</title>
   </programme>
-  <programme start="20200527030000 +0200" stop="20200527042500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200527030000 +0200" stop="20200527042500 +0200" channel="Rai Movie">
     <title lang="it">Jerryssimo!</title>
   </programme>
-  <programme start="20200528044500 +0200" stop="20200528063000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528044500 +0200" stop="20200528063000 +0200" channel="Rai Movie">
     <title lang="it">Madame Sans-Gêne</title>
   </programme>
-  <programme start="20200528063000 +0200" stop="20200528082000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528063000 +0200" stop="20200528082000 +0200" channel="Rai Movie">
     <title lang="it">Totò, Peppino e i fuorilegge</title>
   </programme>
-  <programme start="20200528082000 +0200" stop="20200528095500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528082000 +0200" stop="20200528095500 +0200" channel="Rai Movie">
     <title lang="it">Porgi l'altra guancia</title>
   </programme>
-  <programme start="20200528095500 +0200" stop="20200528121000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528095500 +0200" stop="20200528121000 +0200" channel="Rai Movie">
     <title lang="it">...E poi lo chiamarono il magnifico</title>
   </programme>
-  <programme start="20200528121000 +0200" stop="20200528141500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528121000 +0200" stop="20200528141500 +0200" channel="Rai Movie">
     <title lang="it">I professionisti</title>
   </programme>
-  <programme start="20200528141500 +0200" stop="20200528155000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528141500 +0200" stop="20200528155000 +0200" channel="Rai Movie">
     <title lang="it">La preda e l'avvoltoio</title>
   </programme>
-  <programme start="20200528155000 +0200" stop="20200528173000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528155000 +0200" stop="20200528173000 +0200" channel="Rai Movie">
     <title lang="it">Sangue sulla luna</title>
   </programme>
-  <programme start="20200528173000 +0200" stop="20200528191000 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528173000 +0200" stop="20200528191000 +0200" channel="Rai Movie">
     <title lang="it">Lisa dagli occhi blu</title>
   </programme>
-  <programme start="20200528191000 +0200" stop="20200528210500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528191000 +0200" stop="20200528210500 +0200" channel="Rai Movie">
     <title lang="it">Snitch</title>
   </programme>
-  <programme start="20200528210500 +0200" stop="20200528224500 +0200" channel="Rai Movie (Itália) ">
+  <programme start="20200528210500 +0200" stop="20200528224500 +0200" channel="Rai Movie">
     <title lang="it">Empire State</title>
+  </programme>
+  <programme start="20200525004500 +0200" stop="20200525014500 +0200" channel="Rai 2">
+    <title lang="it">La ragazza del parco</title>
+  </programme>
+  <programme start="20200525014500 +0200" stop="20200525015000 +0200" channel="Rai 2">
+    <title lang="it">Piloti</title>
+  </programme>
+  <programme start="20200525015000 +0200" stop="20200525021000 +0200" channel="Rai 2">
+    <title lang="it">Videocomic Passerella di comici in tv</title>
+  </programme>
+  <programme start="20200525021000 +0200" stop="20200525023400 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Somos Tu Y Yo</title>
+  </programme>
+  <programme start="20200525023400 +0200" stop="20200525025500 +0200" channel="Rai 2">
+    <title lang="it">Chi aprirà il concerto?</title>
+  </programme>
+  <programme start="20200525025500 +0200" stop="20200525040000 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200525040000 +0200" stop="20200525050500 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200525050500 +0200" stop="20200525054500 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Heartland</title>
+  </programme>
+  <programme start="20200525054500 +0200" stop="20200525063000 +0200" channel="Rai 2">
+    <title lang="it">Segreti e bugie</title>
+  </programme>
+  <programme start="20200525063000 +0200" stop="20200525064500 +0200" channel="Rai 2">
+    <title lang="it">TG 2</title>
+  </programme>
+  <programme start="20200525064500 +0200" stop="20200525075000 +0200" channel="Rai 2">
+    <title lang="it">Radio2 Social Club</title>
+  </programme>
+  <programme start="20200525075000 +0200" stop="20200525080000 +0200" channel="Rai 2">
+    <title lang="it">Ragazzi Diario di Casa</title>
+  </programme>
+  <programme start="20200525080000 +0200" stop="20200525085500 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Italia</title>
+  </programme>
+  <programme start="20200525085500 +0200" stop="20200525090000 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Flash</title>
+  </programme>
+  <programme start="20200525090000 +0200" stop="20200525110000 +0200" channel="Rai 2">
+    <title lang="it">I Fatti Vostri</title>
+  </programme>
+  <programme start="20200525110000 +0200" stop="20200525113000 +0200" channel="Rai 2">
+    <title lang="it">TG2 GIORNO</title>
+  </programme>
+  <programme start="20200525113000 +0200" stop="20200525115000 +0200" channel="Rai 2">
+    <title lang="it">TG 2 Costume e Società</title>
+  </programme>
+  <programme start="20200525115000 +0200" stop="20200525120000 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Medicina 33</title>
+  </programme>
+  <programme start="20200525120000 +0200" stop="20200525142500 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200525142500 +0200" stop="20200525143000 +0200" channel="Rai 2">
+    <title lang="it">Parlamento Telegiornale</title>
+  </programme>
+  <programme start="20200525143000 +0200" stop="20200525151500 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Il nostro amico Kalle Vandali</title>
+  </programme>
+  <programme start="20200525151500 +0200" stop="20200525152500 +0200" channel="Rai 2">
+    <title lang="it">Ragazzi Diario di Casa</title>
+  </programme>
+  <programme start="20200525152500 +0200" stop="20200525161000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Squadra Speciale Cobra 11 Unità di crisi...</title>
+  </programme>
+  <programme start="20200525161000 +0200" stop="20200525161500 +0200" channel="Rai 2">
+    <title lang="it">TG 2 Flash L.I.S.</title>
+  </programme>
+  <programme start="20200525161500 +0200" stop="20200525163000 +0200" channel="Rai 2">
+    <title lang="it">TG 2</title>
+  </programme>
+  <programme start="20200525163000 +0200" stop="20200525164800 +0200" channel="Rai 2">
+    <title lang="it">TG Sport Sera</title>
+  </programme>
+  <programme start="20200525164800 +0200" stop="20200525165000 +0200" channel="Rai 2">
+    <title lang="it">Meteo 2</title>
+  </programme>
+  <programme start="20200525165000 +0200" stop="20200525174000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Blue Bloods Oltre le apparenze</title>
+  </programme>
+  <programme start="20200525174000 +0200" stop="20200525183000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Bull La collana</title>
+  </programme>
+  <programme start="20200525183000 +0200" stop="20200525190000 +0200" channel="Rai 2">
+    <title lang="it">TG2 20.30</title>
+  </programme>
+  <programme start="20200525190000 +0200" stop="20200525192000 +0200" channel="Rai 2">
+    <title lang="it">TG2 Post</title>
+  </programme>
+  <programme start="20200525192000 +0200" stop="20200525215500 +0200" channel="Rai 2">
+    <title lang="it">Virginia Raffaele Facciamo che io ero un'altra...</title>
+  </programme>
+  <programme start="20200525215500 +0200" stop="20200525232500 +0200" channel="Rai 2">
+    <title lang="it">Patriae</title>
+  </programme>
+  <programme start="20200525232500 +0200" stop="20200526000700 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Squadra Speciale Colonia</title>
+  </programme>
+  <programme start="20200526000700 +0200" stop="20200526004900 +0200" channel="Rai 2">
+    <title lang="it">L'esecuzione</title>
+  </programme>
+  <programme start="20200526004900 +0200" stop="20200526013000 +0200" channel="Rai 2">
+    <title lang="it">Fiori della morte</title>
+  </programme>
+  <programme start="20200526013000 +0200" stop="20200526020000 +0200" channel="Rai 2">
+    <title lang="it">Piloti</title>
+  </programme>
+  <programme start="20200526020000 +0200" stop="20200526024500 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Somos Tu Y Yo</title>
+  </programme>
+  <programme start="20200526024500 +0200" stop="20200526040000 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200526040000 +0200" stop="20200526050500 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200526050500 +0200" stop="20200526054800 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Heartland</title>
+  </programme>
+  <programme start="20200526054800 +0200" stop="20200526063000 +0200" channel="Rai 2">
+    <title lang="it">Andarsene</title>
+  </programme>
+  <programme start="20200526063000 +0200" stop="20200526064500 +0200" channel="Rai 2">
+    <title lang="it">TG 2</title>
+  </programme>
+  <programme start="20200526064500 +0200" stop="20200526075000 +0200" channel="Rai 2">
+    <title lang="it">Radio2 Social Club</title>
+  </programme>
+  <programme start="20200526075000 +0200" stop="20200526080000 +0200" channel="Rai 2">
+    <title lang="it">Ragazzi Diario di Casa</title>
+  </programme>
+  <programme start="20200526080000 +0200" stop="20200526085500 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Italia</title>
+  </programme>
+  <programme start="20200526085500 +0200" stop="20200526090000 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Flash</title>
+  </programme>
+  <programme start="20200526090000 +0200" stop="20200526110000 +0200" channel="Rai 2">
+    <title lang="it">I Fatti Vostri</title>
+  </programme>
+  <programme start="20200526110000 +0200" stop="20200526113000 +0200" channel="Rai 2">
+    <title lang="it">TG2 GIORNO</title>
+  </programme>
+  <programme start="20200526113000 +0200" stop="20200526115000 +0200" channel="Rai 2">
+    <title lang="it">TG 2 Costume e Società</title>
+  </programme>
+  <programme start="20200526115000 +0200" stop="20200526120000 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Medicina 33</title>
+  </programme>
+  <programme start="20200526120000 +0200" stop="20200526141500 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200526141500 +0200" stop="20200526150000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Il nostro amico Kalle Venerdì 13</title>
+  </programme>
+  <programme start="20200526150000 +0200" stop="20200526151000 +0200" channel="Rai 2">
+    <title lang="it">Ragazzi Diario di Casa</title>
+  </programme>
+  <programme start="20200526151000 +0200" stop="20200526155500 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Squadra Speciale Cobra 11 L'incasso -...</title>
+  </programme>
+  <programme start="20200526155500 +0200" stop="20200526160000 +0200" channel="Rai 2">
+    <title lang="it">TG 2 Flash L.I.S.</title>
+  </programme>
+  <programme start="20200526160000 +0200" stop="20200526163000 +0200" channel="Rai 2">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20200526163000 +0200" stop="20200526164800 +0200" channel="Rai 2">
+    <title lang="it">TG Sport Sera</title>
+  </programme>
+  <programme start="20200526164800 +0200" stop="20200526165000 +0200" channel="Rai 2">
+    <title lang="it">Meteo 2</title>
+  </programme>
+  <programme start="20200526165000 +0200" stop="20200526174000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Blue Bloods Oltre le apparenze</title>
+  </programme>
+  <programme start="20200526174000 +0200" stop="20200526183000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Bull Volo 17-32</title>
+  </programme>
+  <programme start="20200526183000 +0200" stop="20200526190000 +0200" channel="Rai 2">
+    <title lang="it">TG2 20.30</title>
+  </programme>
+  <programme start="20200526190000 +0200" stop="20200526192000 +0200" channel="Rai 2">
+    <title lang="it">TG2 Post</title>
+  </programme>
+  <programme start="20200526192000 +0200" stop="20200526210500 +0200" channel="Rai 2">
+    <title lang="it">FILM Vita, cuore, battito</title>
+  </programme>
+  <programme start="20200526210500 +0200" stop="20200526223000 +0200" channel="Rai 2">
+    <title lang="it">FILM La prima volta di mia figlia</title>
+  </programme>
+  <programme start="20200526223000 +0200" stop="20200527000000 +0200" channel="Rai 2">
+    <title lang="it">Il commissario Heller Amici nemici</title>
+  </programme>
+  <programme start="20200527000000 +0200" stop="20200527003000 +0200" channel="Rai 2">
+    <title lang="it">Sorgente di vita</title>
+  </programme>
+  <programme start="20200527003000 +0200" stop="20200527011000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Squadra Speciale Lipsia</title>
+  </programme>
+  <programme start="20200527011000 +0200" stop="20200527015500 +0200" channel="Rai 2">
+    <title lang="it">La caduta</title>
+  </programme>
+  <programme start="20200527015500 +0200" stop="20200527020000 +0200" channel="Rai 2">
+    <title lang="it">Videocomic Passerella di comici in tv</title>
+  </programme>
+  <programme start="20200527020000 +0200" stop="20200527022300 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Somos Tu Y Yo</title>
+  </programme>
+  <programme start="20200527022300 +0200" stop="20200527024500 +0200" channel="Rai 2">
+    <title lang="it">Una triste sorpresa</title>
+  </programme>
+  <programme start="20200527024500 +0200" stop="20200527040000 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200528040000 +0200" stop="20200528050500 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200528050500 +0200" stop="20200528054800 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Heartland</title>
+  </programme>
+  <programme start="20200528054800 +0200" stop="20200528063000 +0200" channel="Rai 2">
+    <title lang="it">Il cuore del fiume</title>
+  </programme>
+  <programme start="20200528063000 +0200" stop="20200528064500 +0200" channel="Rai 2">
+    <title lang="it">TG 2</title>
+  </programme>
+  <programme start="20200528064500 +0200" stop="20200528075000 +0200" channel="Rai 2">
+    <title lang="it">Radio2 Social Club</title>
+  </programme>
+  <programme start="20200528075000 +0200" stop="20200528080000 +0200" channel="Rai 2">
+    <title lang="it">Ragazzi Diario di Casa</title>
+  </programme>
+  <programme start="20200528080000 +0200" stop="20200528085500 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Italia</title>
+  </programme>
+  <programme start="20200528085500 +0200" stop="20200528090000 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Flash</title>
+  </programme>
+  <programme start="20200528090000 +0200" stop="20200528110000 +0200" channel="Rai 2">
+    <title lang="it">I Fatti Vostri</title>
+  </programme>
+  <programme start="20200528110000 +0200" stop="20200528113000 +0200" channel="Rai 2">
+    <title lang="it">TG2 GIORNO</title>
+  </programme>
+  <programme start="20200528113000 +0200" stop="20200528115000 +0200" channel="Rai 2">
+    <title lang="it">TG 2 Tutto il bello che c'e'</title>
+  </programme>
+  <programme start="20200528115000 +0200" stop="20200528120000 +0200" channel="Rai 2">
+    <title lang="it">Tg2 Medicina 33</title>
+  </programme>
+  <programme start="20200528120000 +0200" stop="20200528141500 +0200" channel="Rai 2">
+    <title lang="it">Detto Fatto</title>
+  </programme>
+  <programme start="20200528141500 +0200" stop="20200528150000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Il nostro amico Kalle Viaggio ad Amburgo...</title>
+  </programme>
+  <programme start="20200528150000 +0200" stop="20200528151000 +0200" channel="Rai 2">
+    <title lang="it">Ragazzi Diario di Casa</title>
+  </programme>
+  <programme start="20200528151000 +0200" stop="20200528155500 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Squadra Speciale Cobra 11 Trafficanti...</title>
+  </programme>
+  <programme start="20200528155500 +0200" stop="20200528160000 +0200" channel="Rai 2">
+    <title lang="it">TG 2 Flash L.I.S.</title>
+  </programme>
+  <programme start="20200528160000 +0200" stop="20200528163000 +0200" channel="Rai 2">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20200528163000 +0200" stop="20200528164800 +0200" channel="Rai 2">
+    <title lang="it">TG Sport Sera</title>
+  </programme>
+  <programme start="20200528164800 +0200" stop="20200528165000 +0200" channel="Rai 2">
+    <title lang="it">Meteo 2</title>
+  </programme>
+  <programme start="20200528165000 +0200" stop="20200528174000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Blue Bloods Sotto accusa</title>
+  </programme>
+  <programme start="20200528174000 +0200" stop="20200528183000 +0200" channel="Rai 2">
+    <title lang="it">TELEFILM Bull Callisto</title>
+  </programme>
+  <programme start="20200528183000 +0200" stop="20200528190000 +0200" channel="Rai 2">
+    <title lang="it">TG2 20.30</title>
+  </programme>
+  <programme start="20200528190000 +0200" stop="20200528192000 +0200" channel="Rai 2">
+    <title lang="it">TG2 Post</title>
+  </programme>
+  <programme start="20200528192000 +0200" stop="20200528224000 +0200" channel="Rai 2">
+    <title lang="it">Morte sulla Scogliera</title>
+  </programme>
+  <programme start="20200525014600 +0200" stop="20200525040000 +0200" channel="Rai 3">
+    <title lang="it">Fuori Orario. Cose (mai) viste</title>
+  </programme>
+  <programme start="20200525040000 +0200" stop="20200525050000 +0200" channel="Rai 3">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20200525050000 +0200" stop="20200525054000 +0200" channel="Rai 3">
+    <title lang="it">TGR Buongiorno Italia</title>
+  </programme>
+  <programme start="20200525054000 +0200" stop="20200525060000 +0200" channel="Rai 3">
+    <title lang="it">TGR Buongiorno Regione</title>
+  </programme>
+  <programme start="20200525060000 +0200" stop="20200525080000 +0200" channel="Rai 3">
+    <title lang="it">Agorà</title>
+  </programme>
+  <programme start="20200525080000 +0200" stop="20200525090000 +0200" channel="Rai 3">
+    <title lang="it">Mi manda Raitre</title>
+  </programme>
+  <programme start="20200525090000 +0200" stop="20200525095500 +0200" channel="Rai 3">
+    <title lang="it">Tutta Salute</title>
+  </programme>
+  <programme start="20200525095500 +0200" stop="20200525100000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200525100000 +0200" stop="20200525102500 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200525102500 +0200" stop="20200525104500 +0200" channel="Rai 3">
+    <title lang="it">TG3 Fuori TG</title>
+  </programme>
+  <programme start="20200525104500 +0200" stop="20200525111500 +0200" channel="Rai 3">
+    <title lang="it">Quante storie</title>
+  </programme>
+  <programme start="20200525111500 +0200" stop="20200525120000 +0200" channel="Rai 3">
+    <title lang="it">Cultura</title>
+  </programme>
+  <programme start="20200525120000 +0200" stop="20200525121800 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200525121800 +0200" stop="20200525122000 +0200" channel="Rai 3">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20200525122000 +0200" stop="20200525124900 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200525124900 +0200" stop="20200525125000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200525125000 +0200" stop="20200525130500 +0200" channel="Rai 3">
+    <title lang="it">TGR Leonardo</title>
+  </programme>
+  <programme start="20200525130500 +0200" stop="20200525131000 +0200" channel="Rai 3">
+    <title lang="it">TGR Piazza Affari</title>
+  </programme>
+  <programme start="20200525131000 +0200" stop="20200525131500 +0200" channel="Rai 3">
+    <title lang="it">TG3 LIS</title>
+  </programme>
+  <programme start="20200525131500 +0200" stop="20200525132000 +0200" channel="Rai 3">
+    <title lang="it">Parlamento Telegiornale</title>
+  </programme>
+  <programme start="20200525132000 +0200" stop="20200525140000 +0200" channel="Rai 3">
+    <title lang="it">Cultura presenta Maestri</title>
+  </programme>
+  <programme start="20200525140000 +0200" stop="20200525150000 +0200" channel="Rai 3">
+    <title lang="it">Sveva Sagramola ed Emanuele Biggi in Aspettando...</title>
+  </programme>
+  <programme start="20200525150000 +0200" stop="20200525165500 +0200" channel="Rai 3">
+    <title lang="it">Sveva Sagramola ed Emanuele Biggi in Geo</title>
+  </programme>
+  <programme start="20200525165500 +0200" stop="20200525170000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200525170000 +0200" stop="20200525173000 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200525173000 +0200" stop="20200525175100 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200525175100 +0200" stop="20200525180000 +0200" channel="Rai 3">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20200525180000 +0200" stop="20200525182000 +0200" channel="Rai 3">
+    <title lang="it">Blob</title>
+  </programme>
+  <programme start="20200525182000 +0200" stop="20200525184500 +0200" channel="Rai 3">
+    <title lang="it">Palestre di vita</title>
+  </programme>
+  <programme start="20200525184500 +0200" stop="20200525192000 +0200" channel="Rai 3">
+    <title lang="it">Un posto al sole Classic</title>
+  </programme>
+  <programme start="20200525192000 +0200" stop="20200525211500 +0200" channel="Rai 3">
+    <title lang="it">Report</title>
+  </programme>
+  <programme start="20200525211500 +0200" stop="20200525220000 +0200" channel="Rai 3">
+    <title lang="it">Fame d'amore</title>
+  </programme>
+  <programme start="20200525220000 +0200" stop="20200525221000 +0200" channel="Rai 3">
+    <title lang="it">TG3 Linea notte</title>
+  </programme>
+  <programme start="20200525221000 +0200" stop="20200525221300 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200525221300 +0200" stop="20200525230000 +0200" channel="Rai 3">
+    <title lang="it">TG3 Linea notte</title>
+  </programme>
+  <programme start="20200525230000 +0200" stop="20200525230500 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200525230500 +0200" stop="20200525235000 +0200" channel="Rai 3">
+    <title lang="it">Cultura presenta Digital World &lt;a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d281b1a7bdbe92"&gt;[email protected]&lt;/a&gt;"&gt;</title>
+  </programme>
+  <programme start="20200525235000 +0200" stop="20200526040000 +0200" channel="Rai 3">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20200526040000 +0200" stop="20200526050000 +0200" channel="Rai 3">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20200526050000 +0200" stop="20200526054000 +0200" channel="Rai 3">
+    <title lang="it">TGR Buongiorno Italia</title>
+  </programme>
+  <programme start="20200526054000 +0200" stop="20200526060000 +0200" channel="Rai 3">
+    <title lang="it">TGR Buongiorno Regione</title>
+  </programme>
+  <programme start="20200526060000 +0200" stop="20200526080000 +0200" channel="Rai 3">
+    <title lang="it">Agorà</title>
+  </programme>
+  <programme start="20200526080000 +0200" stop="20200526090000 +0200" channel="Rai 3">
+    <title lang="it">Mi manda Raitre</title>
+  </programme>
+  <programme start="20200526090000 +0200" stop="20200526095500 +0200" channel="Rai 3">
+    <title lang="it">Tutta Salute</title>
+  </programme>
+  <programme start="20200526095500 +0200" stop="20200526100000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200526100000 +0200" stop="20200526102500 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200526102500 +0200" stop="20200526104500 +0200" channel="Rai 3">
+    <title lang="it">TG3 Fuori TG</title>
+  </programme>
+  <programme start="20200526104500 +0200" stop="20200526111500 +0200" channel="Rai 3">
+    <title lang="it">Quante storie</title>
+  </programme>
+  <programme start="20200526111500 +0200" stop="20200526120000 +0200" channel="Rai 3">
+    <title lang="it">Cultura</title>
+  </programme>
+  <programme start="20200526120000 +0200" stop="20200526121800 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200526121800 +0200" stop="20200526122000 +0200" channel="Rai 3">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20200526122000 +0200" stop="20200526124900 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200526124900 +0200" stop="20200526125000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200526125000 +0200" stop="20200526130500 +0200" channel="Rai 3">
+    <title lang="it">TGR Leonardo</title>
+  </programme>
+  <programme start="20200526130500 +0200" stop="20200526131000 +0200" channel="Rai 3">
+    <title lang="it">TGR Piazza Affari</title>
+  </programme>
+  <programme start="20200526131000 +0200" stop="20200526131500 +0200" channel="Rai 3">
+    <title lang="it">TG3 LIS</title>
+  </programme>
+  <programme start="20200526131500 +0200" stop="20200526132000 +0200" channel="Rai 3">
+    <title lang="it">Parlamento Telegiornale</title>
+  </programme>
+  <programme start="20200526132000 +0200" stop="20200526140000 +0200" channel="Rai 3">
+    <title lang="it">Cultura presenta Maestri</title>
+  </programme>
+  <programme start="20200526140000 +0200" stop="20200526150000 +0200" channel="Rai 3">
+    <title lang="it">Sveva Sagramola ed Emanuele Biggi in Aspettando...</title>
+  </programme>
+  <programme start="20200526150000 +0200" stop="20200526165500 +0200" channel="Rai 3">
+    <title lang="it">Sveva Sagramola ed Emanuele Biggi in Geo</title>
+  </programme>
+  <programme start="20200526165500 +0200" stop="20200526170000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200526170000 +0200" stop="20200526173000 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200526173000 +0200" stop="20200526175100 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200526175100 +0200" stop="20200526180000 +0200" channel="Rai 3">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20200526180000 +0200" stop="20200526182000 +0200" channel="Rai 3">
+    <title lang="it">Blob</title>
+  </programme>
+  <programme start="20200526182000 +0200" stop="20200526184500 +0200" channel="Rai 3">
+    <title lang="it">Palestre di vita</title>
+  </programme>
+  <programme start="20200526184500 +0200" stop="20200526192000 +0200" channel="Rai 3">
+    <title lang="it">Un posto al sole Classic</title>
+  </programme>
+  <programme start="20200526192000 +0200" stop="20200526220000 +0200" channel="Rai 3">
+    <title lang="it">#cartabianca</title>
+  </programme>
+  <programme start="20200526220000 +0200" stop="20200526221000 +0200" channel="Rai 3">
+    <title lang="it">TG3 Linea notte</title>
+  </programme>
+  <programme start="20200526221000 +0200" stop="20200526221300 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200526221300 +0200" stop="20200526230000 +0200" channel="Rai 3">
+    <title lang="it">TG3 Linea notte</title>
+  </programme>
+  <programme start="20200526230000 +0200" stop="20200526230500 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200526230500 +0200" stop="20200526233500 +0200" channel="Rai 3">
+    <title lang="it">Cultura presenta Save the Date</title>
+  </programme>
+  <programme start="20200526233500 +0200" stop="20200527040000 +0200" channel="Rai 3">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20200528040000 +0200" stop="20200528050000 +0200" channel="Rai 3">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20200528050000 +0200" stop="20200528054000 +0200" channel="Rai 3">
+    <title lang="it">TGR Buongiorno Italia</title>
+  </programme>
+  <programme start="20200528054000 +0200" stop="20200528060000 +0200" channel="Rai 3">
+    <title lang="it">TGR Buongiorno Regione</title>
+  </programme>
+  <programme start="20200528060000 +0200" stop="20200528080000 +0200" channel="Rai 3">
+    <title lang="it">Agorà</title>
+  </programme>
+  <programme start="20200528080000 +0200" stop="20200528090000 +0200" channel="Rai 3">
+    <title lang="it">Mi manda Raitre</title>
+  </programme>
+  <programme start="20200528090000 +0200" stop="20200528095500 +0200" channel="Rai 3">
+    <title lang="it">Tutta Salute</title>
+  </programme>
+  <programme start="20200528095500 +0200" stop="20200528100000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200528100000 +0200" stop="20200528102500 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200528102500 +0200" stop="20200528104500 +0200" channel="Rai 3">
+    <title lang="it">TG3 Fuori TG</title>
+  </programme>
+  <programme start="20200528104500 +0200" stop="20200528111500 +0200" channel="Rai 3">
+    <title lang="it">Quante storie</title>
+  </programme>
+  <programme start="20200528111500 +0200" stop="20200528120000 +0200" channel="Rai 3">
+    <title lang="it">Cultura</title>
+  </programme>
+  <programme start="20200528120000 +0200" stop="20200528121800 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200528121800 +0200" stop="20200528122000 +0200" channel="Rai 3">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20200528122000 +0200" stop="20200528124900 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200528124900 +0200" stop="20200528125000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200528125000 +0200" stop="20200528130500 +0200" channel="Rai 3">
+    <title lang="it">TGR Leonardo</title>
+  </programme>
+  <programme start="20200528130500 +0200" stop="20200528131000 +0200" channel="Rai 3">
+    <title lang="it">TGR Piazza Affari</title>
+  </programme>
+  <programme start="20200528131000 +0200" stop="20200528131500 +0200" channel="Rai 3">
+    <title lang="it">TG3 LIS</title>
+  </programme>
+  <programme start="20200528131500 +0200" stop="20200528132000 +0200" channel="Rai 3">
+    <title lang="it">Parlamento Telegiornale</title>
+  </programme>
+  <programme start="20200528132000 +0200" stop="20200528140000 +0200" channel="Rai 3">
+    <title lang="it">Cultura presenta Maestri</title>
+  </programme>
+  <programme start="20200528140000 +0200" stop="20200528150000 +0200" channel="Rai 3">
+    <title lang="it">Sveva Sagramola ed Emanuele Biggi in Aspettando...</title>
+  </programme>
+  <programme start="20200528150000 +0200" stop="20200528165500 +0200" channel="Rai 3">
+    <title lang="it">Sveva Sagramola ed Emanuele Biggi in Geo</title>
+  </programme>
+  <programme start="20200528165500 +0200" stop="20200528170000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20200528170000 +0200" stop="20200528173000 +0200" channel="Rai 3">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20200528173000 +0200" stop="20200528175100 +0200" channel="Rai 3">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20200528175100 +0200" stop="20200528180000 +0200" channel="Rai 3">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20200528180000 +0200" stop="20200528182000 +0200" channel="Rai 3">
+    <title lang="it">Blob</title>
+  </programme>
+  <programme start="20200528182000 +0200" stop="20200528184500 +0200" channel="Rai 3">
+    <title lang="it">Palestre di vita</title>
+  </programme>
+  <programme start="20200528184500 +0200" stop="20200528192000 +0200" channel="Rai 3">
+    <title lang="it">Un posto al sole Classic</title>
+  </programme>
+  <programme start="20200528192000 +0200" stop="20200528212500 +0200" channel="Rai 3">
+    <title lang="it">FILM Air Force One</title>
+  </programme>
+  <programme start="20200528212500 +0200" stop="20190529220000 +0200" channel="Rai 3">
+    <title lang="it">Sostiene Bollani Reloaded</title>
+  </programme>
+  <programme start="20200525002500 +0200" stop="20200525015400 +0200" channel="Rai 4">
+    <title lang="it">Nemesi</title>
+  </programme>
+  <programme start="20200525015400 +0200" stop="20200525024400 +0200" channel="Rai 4">
+    <title lang="it">Marvel's Jessica Jones ep.3</title>
+  </programme>
+  <programme start="20200525024400 +0200" stop="20200525031300 +0200" channel="Rai 4">
+    <title lang="it">Camera Café ep.81</title>
+  </programme>
+  <programme start="20200525031300 +0200" stop="20200525035400 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife ep.9</title>
+  </programme>
+  <programme start="20200525035400 +0200" stop="20200525043400 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife ep.10</title>
+  </programme>
+  <programme start="20200525043400 +0200" stop="20200525051900 +0200" channel="Rai 4">
+    <title lang="it">Medium V ep.7</title>
+  </programme>
+  <programme start="20200525051900 +0200" stop="20200525060400 +0200" channel="Rai 4">
+    <title lang="it">Medium V ep.8</title>
+  </programme>
+  <programme start="20200525060400 +0200" stop="20200525065200 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.1</title>
+  </programme>
+  <programme start="20200525065200 +0200" stop="20200525073700 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.2</title>
+  </programme>
+  <programme start="20200525073700 +0200" stop="20200525082300 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.8</title>
+  </programme>
+  <programme start="20200525082300 +0200" stop="20200525090800 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds IV ep.24</title>
+  </programme>
+  <programme start="20200525090800 +0200" stop="20200525095700 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife V ep.3</title>
+  </programme>
+  <programme start="20200525095700 +0200" stop="20200525104400 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife V ep.4</title>
+  </programme>
+  <programme start="20200525104400 +0200" stop="20200525112700 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.11</title>
+  </programme>
+  <programme start="20200525112700 +0200" stop="20200525121300 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.12</title>
+  </programme>
+  <programme start="20200525121300 +0200" stop="20200525125800 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds IV ep.25</title>
+  </programme>
+  <programme start="20200525125800 +0200" stop="20200525134700 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.9</title>
+  </programme>
+  <programme start="20200525134700 +0200" stop="20200525143700 +0200" channel="Rai 4">
+    <title lang="it">Doctor Who IX ep.1</title>
+  </programme>
+  <programme start="20200525143700 +0200" stop="20200525152900 +0200" channel="Rai 4">
+    <title lang="it">Doctor Who IX ep.2</title>
+  </programme>
+  <programme start="20200525152900 +0200" stop="20200525161300 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.3</title>
+  </programme>
+  <programme start="20200525161300 +0200" stop="20200525165800 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.4</title>
+  </programme>
+  <programme start="20200525165800 +0200" stop="20200525174600 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.13</title>
+  </programme>
+  <programme start="20200525174600 +0200" stop="20200525183100 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.14</title>
+  </programme>
+  <programme start="20200525183100 +0200" stop="20200525191900 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds IV ep.26</title>
+  </programme>
+  <programme start="20200525191900 +0200" stop="20200525200800 +0200" channel="Rai 4">
+    <title lang="it">Marvel's Runaways II ep.7</title>
+  </programme>
+  <programme start="20200525200800 +0200" stop="20200525205500 +0200" channel="Rai 4">
+    <title lang="it">Marvel's Runaways II ep.8</title>
+  </programme>
+  <programme start="20200525205500 +0200" stop="20200525214300 +0200" channel="Rai 4">
+    <title lang="it">Marvel's Jessica Jones ep.4</title>
+  </programme>
+  <programme start="20200525214300 +0200" stop="20200525233600 +0200" channel="Rai 4">
+    <title lang="it">Donnie Darko</title>
+  </programme>
+  <programme start="20200525233600 +0200" stop="20200526003000 +0200" channel="Rai 4">
+    <title lang="it">Narcos II ep.8</title>
+  </programme>
+  <programme start="20200526003000 +0200" stop="20200526012200 +0200" channel="Rai 4">
+    <title lang="it">Narcos II ep.9</title>
+  </programme>
+  <programme start="20200526012200 +0200" stop="20200526020500 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.9</title>
+  </programme>
+  <programme start="20200526020500 +0200" stop="20200526030800 +0200" channel="Rai 4">
+    <title lang="it">Senza Traccia III ep.7</title>
+  </programme>
+  <programme start="20200526030800 +0200" stop="20200526033100 +0200" channel="Rai 4">
+    <title lang="it">Worktrotter pt.4</title>
+  </programme>
+  <programme start="20200526033100 +0200" stop="20200526041100 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife ep.11</title>
+  </programme>
+  <programme start="20200526041100 +0200" stop="20200526044600 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife ep.12</title>
+  </programme>
+  <programme start="20200526044600 +0200" stop="20200526053000 +0200" channel="Rai 4">
+    <title lang="it">Medium V ep.9</title>
+  </programme>
+  <programme start="20200526053000 +0200" stop="20200526061500 +0200" channel="Rai 4">
+    <title lang="it">Medium V ep.10</title>
+  </programme>
+  <programme start="20200526061500 +0200" stop="20200526065900 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.3</title>
+  </programme>
+  <programme start="20200526065900 +0200" stop="20200526074400 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.4</title>
+  </programme>
+  <programme start="20200526074400 +0200" stop="20200526083000 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.9</title>
+  </programme>
+  <programme start="20200526083000 +0200" stop="20200526091900 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds IV ep.25</title>
+  </programme>
+  <programme start="20200526091900 +0200" stop="20200526100300 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife V ep.5</title>
+  </programme>
+  <programme start="20200526100300 +0200" stop="20200526105200 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife V ep.6</title>
+  </programme>
+  <programme start="20200526105200 +0200" stop="20200526113600 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.13</title>
+  </programme>
+  <programme start="20200526113600 +0200" stop="20200526122100 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.14</title>
+  </programme>
+  <programme start="20200526122100 +0200" stop="20200526130700 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds IV ep.26</title>
+  </programme>
+  <programme start="20200526130700 +0200" stop="20200526135400 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.10</title>
+  </programme>
+  <programme start="20200526135400 +0200" stop="20200526144300 +0200" channel="Rai 4">
+    <title lang="it">Doctor Who IX ep.3</title>
+  </programme>
+  <programme start="20200526144300 +0200" stop="20200526152700 +0200" channel="Rai 4">
+    <title lang="it">Doctor Who IX ep.4</title>
+  </programme>
+  <programme start="20200526152700 +0200" stop="20200526153000 +0200" channel="Rai 4">
+    <title lang="it">Just for Laughs XVII ep.11</title>
+  </programme>
+  <programme start="20200526153000 +0200" stop="20200526161400 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.5</title>
+  </programme>
+  <programme start="20200526161400 +0200" stop="20200526165800 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.6</title>
+  </programme>
+  <programme start="20200526165800 +0200" stop="20200526174800 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.15</title>
+  </programme>
+  <programme start="20200526174800 +0200" stop="20200526183100 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.16</title>
+  </programme>
+  <programme start="20200526183100 +0200" stop="20200526192000 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds V ep.1</title>
+  </programme>
+  <programme start="20200526192000 +0200" stop="20200526220500 +0200" channel="Rai 4">
+    <title lang="it">Blade Runner 2049</title>
+  </programme>
+  <programme start="20200526220500 +0200" stop="20200526223900 +0200" channel="Rai 4">
+    <title lang="it">Wonderland pt.31</title>
+  </programme>
+  <programme start="20200526223900 +0200" stop="20200527003100 +0200" channel="Rai 4">
+    <title lang="it">Takers</title>
+  </programme>
+  <programme start="20200527003100 +0200" stop="20200527012100 +0200" channel="Rai 4">
+    <title lang="it">Narcos II ep.10</title>
+  </programme>
+  <programme start="20200527012100 +0200" stop="20200527020200 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.10</title>
+  </programme>
+  <programme start="20200527020200 +0200" stop="20200527031900 +0200" channel="Rai 4">
+    <title lang="it">Senza Traccia III ep.8</title>
+  </programme>
+  <programme start="20200527031900 +0200" stop="20200527035900 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife ep.13</title>
+  </programme>
+  <programme start="20200527035900 +0200" stop="20200527044000 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife ep.14</title>
+  </programme>
+  <programme start="20200528040000 +0200" stop="20200528044200 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife ep.16</title>
+  </programme>
+  <programme start="20200528044200 +0200" stop="20200528052000 +0200" channel="Rai 4">
+    <title lang="it">Medium V ep.13</title>
+  </programme>
+  <programme start="20200528052000 +0200" stop="20200528055900 +0200" channel="Rai 4">
+    <title lang="it">Medium V ep.14</title>
+  </programme>
+  <programme start="20200528055900 +0200" stop="20200528064000 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.7</title>
+  </programme>
+  <programme start="20200528064000 +0200" stop="20200528072100 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.8</title>
+  </programme>
+  <programme start="20200528072100 +0200" stop="20200528080400 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.11</title>
+  </programme>
+  <programme start="20200528080400 +0200" stop="20200528084500 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds V ep.1</title>
+  </programme>
+  <programme start="20200528084500 +0200" stop="20200528092600 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife V ep.9</title>
+  </programme>
+  <programme start="20200528092600 +0200" stop="20200528100800 +0200" channel="Rai 4">
+    <title lang="it">The Good Wife V ep.10</title>
+  </programme>
+  <programme start="20200528100800 +0200" stop="20200528104900 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.17</title>
+  </programme>
+  <programme start="20200528104900 +0200" stop="20200528122000 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.18</title>
+  </programme>
+  <programme start="20200528122000 +0200" stop="20200528125800 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds V ep.2</title>
+  </programme>
+  <programme start="20200528125800 +0200" stop="20200528133900 +0200" channel="Rai 4">
+    <title lang="it">Cold Case II ep.12</title>
+  </programme>
+  <programme start="20200528133900 +0200" stop="20200528142400 +0200" channel="Rai 4">
+    <title lang="it">Doctor Who IX ep.7</title>
+  </programme>
+  <programme start="20200528142400 +0200" stop="20200528150800 +0200" channel="Rai 4">
+    <title lang="it">Doctor Who IX ep.8</title>
+  </programme>
+  <programme start="20200528150800 +0200" stop="20200528151500 +0200" channel="Rai 4">
+    <title lang="it">Just for Laughs XVII ep.13</title>
+  </programme>
+  <programme start="20200528151500 +0200" stop="20200528155600 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.9</title>
+  </programme>
+  <programme start="20200528155600 +0200" stop="20200528163600 +0200" channel="Rai 4">
+    <title lang="it">Elementary II ep.10</title>
+  </programme>
+  <programme start="20200528163600 +0200" stop="20200528171600 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.19</title>
+  </programme>
+  <programme start="20200528171600 +0200" stop="20200528175700 +0200" channel="Rai 4">
+    <title lang="it">Ghost Whisperer ep.20</title>
+  </programme>
+  <programme start="20200528175700 +0200" stop="20200528192000 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds V ep.3</title>
+  </programme>
+  <programme start="20200528192000 +0200" stop="20200528200100 +0200" channel="Rai 4">
+    <title lang="it">Private Eyes III ep.4</title>
+  </programme>
+  <programme start="20200528200100 +0200" stop="20200528204200 +0200" channel="Rai 4">
+    <title lang="it">Private Eyes III ep.5</title>
+  </programme>
+  <programme start="20200528204200 +0200" stop="20200528212400 +0200" channel="Rai 4">
+    <title lang="it">Private Eyes III ep.6</title>
+  </programme>
+  <programme start="20200528212400 +0200" stop="20190529222800 +0200" channel="Rai 4">
+    <title lang="it">Before I go to sleep</title>
+  </programme>
+  <programme start="20200525002800 +0200" stop="20200525012600 +0200" channel="Rai 5">
+    <title lang="it">Ravel: Daphins et Chloè</title>
+  </programme>
+  <programme start="20200525012600 +0200" stop="20200525021200 +0200" channel="Rai 5">
+    <title lang="it">I tesori segreti del Sudafrica</title>
+  </programme>
+  <programme start="20200525021200 +0200" stop="20200525030500 +0200" channel="Rai 5">
+    <title lang="it">Moon: illuminati dalla Luna</title>
+  </programme>
+  <programme start="20200525030500 +0200" stop="20200525040000 +0200" channel="Rai 5">
+    <title lang="it">I tesori segreti del Sudafrica</title>
+  </programme>
+  <programme start="20200525040000 +0200" stop="20200525040400 +0200" channel="Rai 5">
+    <title lang="it">PAINTINGS OF THE WORLD</title>
+  </programme>
+  <programme start="20200525040400 +0200" stop="20200525042000 +0200" channel="Rai 5">
+    <title lang="it">Piano Pianissimo</title>
+  </programme>
+  <programme start="20200525042000 +0200" stop="20200525045100 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200525045100 +0200" stop="20200525054400 +0200" channel="Rai 5">
+    <title lang="it">Moon: illuminati dalla Luna</title>
+  </programme>
+  <programme start="20200525054400 +0200" stop="20200525061400 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200525061400 +0200" stop="20200525070700 +0200" channel="Rai 5">
+    <title lang="it">The Sense of Beauty</title>
+  </programme>
+  <programme start="20200525070700 +0200" stop="20200525080000 +0200" channel="Rai 5">
+    <title lang="it">Ava Gardner, il miglior film è quello della vita...</title>
+  </programme>
+  <programme start="20200525080000 +0200" stop="20200525095700 +0200" channel="Rai 5">
+    <title lang="it">Opera</title>
+  </programme>
+  <programme start="20200525095700 +0200" stop="20200525103900 +0200" channel="Rai 5">
+    <title lang="it">Speciale Save the Date #laculturanonsiferma -...</title>
+  </programme>
+  <programme start="20200525103900 +0200" stop="20200525113100 +0200" channel="Rai 5">
+    <title lang="it">Città segrete</title>
+  </programme>
+  <programme start="20200525113100 +0200" stop="20200525120200 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200525120200 +0200" stop="20200525125100 +0200" channel="Rai 5">
+    <title lang="it">Wild Italy</title>
+  </programme>
+  <programme start="20200525125100 +0200" stop="20200525134500 +0200" channel="Rai 5">
+    <title lang="it">Moon: illuminati dalla Luna</title>
+  </programme>
+  <programme start="20200525134500 +0200" stop="20200525141700 +0200" channel="Rai 5">
+    <title lang="it">Terza pagina</title>
+  </programme>
+  <programme start="20200525141700 +0200" stop="20200525155000 +0200" channel="Rai 5">
+    <title lang="it">TEATRO John Gabriel Borkman</title>
+  </programme>
+  <programme start="20200525155000 +0200" stop="20200525155300 +0200" channel="Rai 5">
+    <title lang="it">Rai News Giorno</title>
+  </programme>
+  <programme start="20200525155300 +0200" stop="20200525170900 +0200" channel="Rai 5">
+    <title lang="it">The Swingles con l'Orchestra Rai</title>
+  </programme>
+  <programme start="20200525170900 +0200" stop="20200525172500 +0200" channel="Rai 5">
+    <title lang="it">Piano Pianissimo</title>
+  </programme>
+  <programme start="20200525172500 +0200" stop="20200525182200 +0200" channel="Rai 5">
+    <title lang="it">The Sense of Beauty</title>
+  </programme>
+  <programme start="20200525182200 +0200" stop="20200525191600 +0200" channel="Rai 5">
+    <title lang="it">Rocky l'atomica di Reagan</title>
+  </programme>
+  <programme start="20200525191600 +0200" stop="20200525201300 +0200" channel="Rai 5">
+    <title lang="it">L'altro '900</title>
+  </programme>
+  <programme start="20200525201300 +0200" stop="20200525214600 +0200" channel="Rai 5">
+    <title lang="it">FILM</title>
+  </programme>
+  <programme start="20200525214600 +0200" stop="20200525221700 +0200" channel="Rai 5">
+    <title lang="it">Genesis live, 1973</title>
+  </programme>
+  <programme start="20200525221700 +0200" stop="20200525224900 +0200" channel="Rai 5">
+    <title lang="it">Talking Heads</title>
+  </programme>
+  <programme start="20200525224900 +0200" stop="20200525231400 +0200" channel="Rai 5">
+    <title lang="it">The Ronnie Wood Show</title>
+  </programme>
+  <programme start="20200525231400 +0200" stop="20200525232700 +0200" channel="Rai 5">
+    <title lang="it">Variazioni su tema</title>
+  </programme>
+  <programme start="20200525232700 +0200" stop="20200525232800 +0200" channel="Rai 5">
+    <title lang="it">Rai News Notte</title>
+  </programme>
+  <programme start="20200525232800 +0200" stop="20200526002300 +0200" channel="Rai 5">
+    <title lang="it">The Sense of Beauty</title>
+  </programme>
+  <programme start="20200526002300 +0200" stop="20200526011500 +0200" channel="Rai 5">
+    <title lang="it">Rocky l'atomica di Reagan</title>
+  </programme>
+  <programme start="20200526011500 +0200" stop="20200526020400 +0200" channel="Rai 5">
+    <title lang="it">Wild Italy</title>
+  </programme>
+  <programme start="20200526020400 +0200" stop="20200526025700 +0200" channel="Rai 5">
+    <title lang="it">Moon: illuminati dalla Luna</title>
+  </programme>
+  <programme start="20200526025700 +0200" stop="20200526030700 +0200" channel="Rai 5">
+    <title lang="it">Piano Pianissimo</title>
+  </programme>
+  <programme start="20200526030700 +0200" stop="20200526040000 +0200" channel="Rai 5">
+    <title lang="it">Wild Italy</title>
+  </programme>
+  <programme start="20200526040000 +0200" stop="20200526040400 +0200" channel="Rai 5">
+    <title lang="it">PAINTINGS OF THE WORLD</title>
+  </programme>
+  <programme start="20200526040400 +0200" stop="20200526041700 +0200" channel="Rai 5">
+    <title lang="it">Piano Pianissimo</title>
+  </programme>
+  <programme start="20200526041700 +0200" stop="20200526044700 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200526044700 +0200" stop="20200526054000 +0200" channel="Rai 5">
+    <title lang="it">Moon: illuminati dalla Luna</title>
+  </programme>
+  <programme start="20200526054000 +0200" stop="20200526061000 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200526061000 +0200" stop="20200526070600 +0200" channel="Rai 5">
+    <title lang="it">The Sense of Beauty</title>
+  </programme>
+  <programme start="20200526070600 +0200" stop="20200526080000 +0200" channel="Rai 5">
+    <title lang="it">Rocky l'atomica di Reagan</title>
+  </programme>
+  <programme start="20200526080000 +0200" stop="20200526100800 +0200" channel="Rai 5">
+    <title lang="it">Opera</title>
+  </programme>
+  <programme start="20200526100800 +0200" stop="20200526104000 +0200" channel="Rai 5">
+    <title lang="it">Prima della Prima</title>
+  </programme>
+  <programme start="20200526104000 +0200" stop="20200526113300 +0200" channel="Rai 5">
+    <title lang="it">Città segrete</title>
+  </programme>
+  <programme start="20200526113300 +0200" stop="20200526120300 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200526120300 +0200" stop="20200526125400 +0200" channel="Rai 5">
+    <title lang="it">Wild Italy</title>
+  </programme>
+  <programme start="20200526125400 +0200" stop="20200526134900 +0200" channel="Rai 5">
+    <title lang="it">I vulcani dell'Islanda</title>
+  </programme>
+  <programme start="20200526134900 +0200" stop="20200526150100 +0200" channel="Rai 5">
+    <title lang="it">TEATRO</title>
+  </programme>
+  <programme start="20200526150100 +0200" stop="20200526174300 +0200" channel="Rai 5">
+    <title lang="it">OPERA</title>
+  </programme>
+  <programme start="20200526174300 +0200" stop="20200526174600 +0200" channel="Rai 5">
+    <title lang="it">Rai News Giorno</title>
+  </programme>
+  <programme start="20200526174600 +0200" stop="20200526175700 +0200" channel="Rai 5">
+    <title lang="it">Piano Pianissimo</title>
+  </programme>
+  <programme start="20200526175700 +0200" stop="20200526182100 +0200" channel="Rai 5">
+    <title lang="it">Testimoni del tempo</title>
+  </programme>
+  <programme start="20200526182100 +0200" stop="20200526191500 +0200" channel="Rai 5">
+    <title lang="it">Alain Delon. Il lato oscuro di una star</title>
+  </programme>
+  <programme start="20200526191500 +0200" stop="20200526204800 +0200" channel="Rai 5">
+    <title lang="it">FILM</title>
+  </programme>
+  <programme start="20200526204800 +0200" stop="20200526220800 +0200" channel="Rai 5">
+    <title lang="it">Pink Floyd Behind the Wall</title>
+  </programme>
+  <programme start="20200526220800 +0200" stop="20200526224800 +0200" channel="Rai 5">
+    <title lang="it">Talking Heads</title>
+  </programme>
+  <programme start="20200526224800 +0200" stop="20200526231500 +0200" channel="Rai 5">
+    <title lang="it">The Ronnie Wood Show</title>
+  </programme>
+  <programme start="20200526231500 +0200" stop="20200526232500 +0200" channel="Rai 5">
+    <title lang="it">Variazioni su tema</title>
+  </programme>
+  <programme start="20200526232500 +0200" stop="20200526232800 +0200" channel="Rai 5">
+    <title lang="it">Rai News Notte</title>
+  </programme>
+  <programme start="20200526232800 +0200" stop="20200527001800 +0200" channel="Rai 5">
+    <title lang="it">Vienna: impero, dinastia e sogno</title>
+  </programme>
+  <programme start="20200527001800 +0200" stop="20200527011200 +0200" channel="Rai 5">
+    <title lang="it">Alain Delon. Il lato oscuro di una star</title>
+  </programme>
+  <programme start="20200527011200 +0200" stop="20200527020300 +0200" channel="Rai 5">
+    <title lang="it">Wild Italy</title>
+  </programme>
+  <programme start="20200527020300 +0200" stop="20200527025600 +0200" channel="Rai 5">
+    <title lang="it">I vulcani dell'Islanda</title>
+  </programme>
+  <programme start="20200527025600 +0200" stop="20200527030500 +0200" channel="Rai 5">
+    <title lang="it">Piano Pianissimo</title>
+  </programme>
+  <programme start="20200527030500 +0200" stop="20200527040000 +0200" channel="Rai 5">
+    <title lang="it">Wild Italy</title>
+  </programme>
+  <programme start="20200528040000 +0200" stop="20200528041500 +0200" channel="Rai 5">
+    <title lang="it">Piano Pianissimo</title>
+  </programme>
+  <programme start="20200528041500 +0200" stop="20200528044500 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200528044500 +0200" stop="20200528053900 +0200" channel="Rai 5">
+    <title lang="it">I dottori dei vulcani</title>
+  </programme>
+  <programme start="20200528053900 +0200" stop="20200528060800 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200528060800 +0200" stop="20200528070200 +0200" channel="Rai 5">
+    <title lang="it">Vienna: impero, dinastia e sogno</title>
+  </programme>
+  <programme start="20200528070200 +0200" stop="20200528075600 +0200" channel="Rai 5">
+    <title lang="it">Warren Beatty Hollywood Playboy</title>
+  </programme>
+  <programme start="20200528075600 +0200" stop="20200528105000 +0200" channel="Rai 5">
+    <title lang="it">OPERA</title>
+  </programme>
+  <programme start="20200528105000 +0200" stop="20200528112400 +0200" channel="Rai 5">
+    <title lang="it">Prima della Prima</title>
+  </programme>
+  <programme start="20200528112400 +0200" stop="20200528115400 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200528115400 +0200" stop="20200528124300 +0200" channel="Rai 5">
+    <title lang="it">Wild Italy</title>
+  </programme>
+  <programme start="20200528124300 +0200" stop="20200528133500 +0200" channel="Rai 5">
+    <title lang="it">Le grandi sfide alla natura</title>
+  </programme>
+  <programme start="20200528133500 +0200" stop="20200528144900 +0200" channel="Rai 5">
+    <title lang="it">TEATRO</title>
+  </programme>
+  <programme start="20200528144900 +0200" stop="20200528154100 +0200" channel="Rai 5">
+    <title lang="it">Nudità</title>
+  </programme>
+  <programme start="20200528154100 +0200" stop="20200528161400 +0200" channel="Rai 5">
+    <title lang="it">Storie della Letteratura</title>
+  </programme>
+  <programme start="20200528161400 +0200" stop="20200528161800 +0200" channel="Rai 5">
+    <title lang="it">Rai News Giorno</title>
+  </programme>
+  <programme start="20200528161800 +0200" stop="20200528164700 +0200" channel="Rai 5">
+    <title lang="it">Ritorno alla natura</title>
+  </programme>
+  <programme start="20200528164700 +0200" stop="20200528171600 +0200" channel="Rai 5">
+    <title lang="it">Save the Date Il volo del calabrone</title>
+  </programme>
+  <programme start="20200528171600 +0200" stop="20200528181000 +0200" channel="Rai 5">
+    <title lang="it">Vienna: impero, dinastia e sogno</title>
+  </programme>
+  <programme start="20200528181000 +0200" stop="20200528185900 +0200" channel="Rai 5">
+    <title lang="it">John Avildsen nell'ombra di Rocky</title>
+  </programme>
+  <programme start="20200528185900 +0200" stop="20200528213800 +0200" channel="Rai 5">
+    <title lang="it">Opera</title>
+  </programme>
+  <programme start="20200528213800 +0200" stop="20190529222400 +0200" channel="Rai 5">
+    <title lang="it">Queen: days of our life Parte 2</title>
   </programme>
 </tv>
