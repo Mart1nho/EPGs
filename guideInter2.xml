@@ -20,12 +20,12 @@
     <display-name lang="it">Rai 5</display-name>
     <url>http://www.raiplay.it</url>
   </channel>
-  <channel id="RAI Movie">
-    <display-name lang="it">RAI Movie (itália)</display-name>
+  <channel id="RAI Movie (Itália)">
+    <display-name lang="it">RAI Movie (Itália)</display-name>
     <url>http://www.raiplay.it</url>
   </channel>
-  <channel id="Rai Movie (Itália)">
-    <display-name lang="it">Rai Movie (Itália)</display-name>
+  <channel id="Rai Movie (itália)">
+    <display-name lang="it">Rai Movie (itália)</display-name>
     <icon src="https://guidatv.sky.it/logo/9018raimovie_Light_Fit.png?tr=n-logo_80" />
     <url>http://www.guidatv.sky.it.E</url>
   </channel>
